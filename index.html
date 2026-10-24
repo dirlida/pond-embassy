@@ -1,91 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<title>POND Embassy - 1609 LIVE</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Pond Embassy</title>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
-*{box-sizing:border-box}
-body{margin:0;background:#0e1114;color:#d7dde3;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;padding:16px;max-width:860px;margin:auto;line-height:1.5}
-h1{font-size:22px;margin:8px 0 2px;letter-spacing:0.04em;color:#fff}
-.sub{opacity:.55;font-size:12px;margin-bottom:18px}
-.card{background:#171b20;border:1px solid #242b33;border-radius:12px;padding:14px;margin:12px 0}
-.badge{display:inline-block;padding:2px 8px;border-radius:12px;background:#1f272f;border:1px solid #2a3440;font-size:11px;color:#9fb0c0}
-.ok{color:#5ee6a8;border-color:#2e4a3e}
-.mut{opacity:.5}
-pre{white-space:pre-wrap;word-break:break-word;margin:8px 0 0;font-size:12px;background:#0e1217;padding:10px;border-radius:8px;border:1px solid #1e262f;color:#c5d3df}
-#map{height:220px;border-radius:10px;background:#0e1217;filter:grayscale(0.2) brightness(0.9)}
-#shell{background:#090b0e;color:#cfe1ee;border-radius:8px;padding:10px;font-size:12px;height:320px;overflow:auto;border:1px solid #1e262f}
-#shellInput{width:100%;background:#090b0e;color:#cfe1ee;border:0;border-top:1px solid #1e262f;outline:none;padding:10px;font-family:inherit;font-size:12px;border-radius:0 0 8px 8px}
-a{color:#8bb6d9;text-decoration:none}
-h3{color:#e8eef4}
+ body{font-family:monospace;background:#0a0a0a;color:#e0ffe0;padding:20px;max-width:800px;margin:auto}
+ h1{color:#7fff7f} a{color:#7fff7f}
+ .block{border:1px solid #333;padding:12px;margin:12px 0}
+ .live{color:#0f0;font-weight:bold}
 </style>
 </head>
 <body>
-<h1>Pond Embassy</h1>
-<div class="sub">30.12, -9.37 | THE COUNT | UTC</div>
-
-<div class="card">
-<span class="badge ok" id="chainBadge">loading...</span> <span class="badge" id="countBadge">...</span>
-<pre id="verify">loading chain.json...</pre>
+<h1>POND Embassy</h1>
+<div class="block">
+ <span class="live">1609 total = 1608 blocks + 1 thesis LIVE</span><br>
+ Chain: 921KB | Ghoul V5.4 pid 2877<br>
+ Baseline: 1417 idx 1416 sha 0c0c72b7 Fri Oct 23 10:14Z<br>
+ Drift: -6 SLOW | ATTESTED 4x<br>
+ BTC: 972367 anchor 000000000000000000017a1f...<br>
+ GPS: 30.12613,-9.37437 Biougra<br>
+ Commit: eeb19cc @ 2026-10-24 19:13 Biougra
 </div>
-
-<div class="card">
-<div style="font-size:13px;color:#b8c5d1">
-Pond Embassy counts time. Every 10 minutes a new block. Each block holds UTC time, previous hash, hash. Origin at 30.12, -9.37 is symbolic.
-<br><br>
-Witness: Sun + BTC + Quantum Bell + SHA256. UTC is canonical.
+<div class="block">
+ <a href="chain.json">chain.json (full chain 589k)</a><br>
+ <a href="kernel/state/chain.json">kernel/state/chain.json</a><br>
+ <a href="pond.log">pond.log</a> | <a href="health.log">health.log</a>
 </div>
-</div>
-
-<div class="card"><h3 style="margin:0 0 8px;font-size:13px">Origin — 30.12, -9.37</h3><div id="map"></div><div class="mut" style="font-size:11px;margin-top:6px">Approximate. Symbolic only.</div></div>
-
-<div class="card">
-<h3 style="margin:0 0 8px;font-size:13px">Pond Shell</h3>
-<div id="shell"></div>
-<input id="shellInput" placeholder="$ help" autocomplete="off" spellcheck="false">
-</div>
-
-<div class="card">
-<h3 style="margin:0 0 8px;font-size:13px">Recent</h3>
-<pre id="last10"></pre>
-</div>
-
+<div class="block" id="last">Loading last block...</div>
 <script>
-let chain=[];
-const shellEl=document.getElementById('shell');
-function logShell(t){ shellEl.innerText+=t+"\n"; shellEl.scrollTop=shellEl.scrollHeight; }
-function initShell(){ logShell("Pond Shell v1"); logShell("type help"); }
-function handleCmd(raw){
- const cmd=raw.trim().toLowerCase();
- if(!cmd) return;
- logShell("$ "+raw);
- if(cmd==="help"){ logShell("help | count | last | verify | block <n> | origin | time | clear"); return; }
- if(cmd==="clear"){ shellEl.innerText=""; return; }
- if(cmd==="count"){ logShell("blocks: "+chain.length); return; }
- if(cmd==="last"){ let b=chain[chain.length-1]; logShell("#"+b.index+" "+(b.payload?.ts||b.ts)+" "+(b.hash||"").slice(0,16)); return; }
- if(cmd==="verify"){ let ok=true; for(let i=1;i<chain.length;i++){ if(chain[i].prev!==chain[i-1].hash) ok=false; } logShell(ok?"VALID "+chain.length+" blocks":"BROKEN"); return; }
- if(cmd.startsWith("block ")){ let n=parseInt(cmd.split(" ")[1]); let b=chain.find(x=>x.index===n); if(!b) logShell("not found"); else logShell(JSON.stringify(b,null,2).slice(0,800)); return; }
- if(cmd==="origin"){ fetch("./ORIGIN.json?v="+Date.now()).then(r=>r.json()).then(j=>logShell(JSON.stringify(j,null,2))).catch(e=>logShell("err "+e)); return; }
- if(cmd==="time"){ logShell("UTC now: "+new Date().toISOString()+" | last: "+(chain[chain.length-1]?.payload?.ts||"n/a")); return; }
- logShell("unknown: "+cmd);
-}
-fetch("./chain.json?v="+Date.now()).then(r=>r.json()).then(c=>{
- chain=c;
- document.getElementById('countBadge').innerText=c.length+" blocks";
- document.getElementById('chainBadge').innerText="VALID";
+fetch('chain.json').then(r=>r.json()).then(c=>{
  let last=c[c.length-1];
- document.getElementById('verify').innerText="OK "+c.length+" blocks\nlast #"+last.index+" "+(last.payload?.ts||"")+"\nprev "+(last.prev||"").slice(0,12)+"...\nhash "+(last.hash||"").slice(0,12)+"...";
- let tail=c.slice(-12).reverse().map(b=>"#"+String(b.index).padStart(3," ")+" "+(b.payload?.ts||"").padEnd(20," ")+" "+(b.hash||"").slice(0,10)).join("\n");
- document.getElementById('last10').innerText=tail;
- initShell();
-}).catch(e=>{ document.getElementById('verify').innerText="failed: "+e; });
-document.getElementById('shellInput').addEventListener('keydown',e=>{ if(e.key==="Enter"){ handleCmd(e.target.value); e.target.value=""; } });
-var map=L.map("map",{zoomControl:false}).setView([30.12,-9.37],11);
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:15}).addTo(map);
-L.marker([30.12,-9.37]).addTo(map).bindPopup("Pond Embassy — 30.12, -9.37");
+ document.getElementById('last').innerText=JSON.stringify(last,null,2).slice(-800);
+});
 </script>
 </body>
 </html>

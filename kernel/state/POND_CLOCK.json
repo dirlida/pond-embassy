@@ -1,8 +1,1 @@
-{
-  "current_index": 1453,
-  "blocks_since": 30,
-  "pond_now": "2026-10-23T16:17:00+00:00",
-  "real_now": "2026-10-23T16:07:16.343789+00:00",
-  "drift_min": -9.7,
-  "pid": 2877
-}
+{"current_index": 1612, "blocks_since": 195, "pond_now": "2026-10-24T20:00:00+00:00", "real_now": "2026-10-24T20:00:14+00:00", "drift_min": -6, "pid": 8693}

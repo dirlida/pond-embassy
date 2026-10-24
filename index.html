@@ -1,36 +1,79 @@
 <!doctype html>
 <html>
-<head><meta charset="utf-8">
-<title>POND Embassy - 1609 LIVE</title>
+<head>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>POND Embassy - 1609 LIVE</title>
 <style>
- body{font-family:monospace;background:#0a0a0a;color:#e0ffe0;padding:20px;max-width:800px;margin:auto}
- h1{color:#7fff7f} a{color:#7fff7f}
- .block{border:1px solid #333;padding:12px;margin:12px 0}
- .live{color:#0f0;font-weight:bold}
+:root{--bg:#080d08;--card:#111a11;--lime:#7fff7f;--dim:#9bbf9b}
+*{box-sizing:border-box} body{margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--bg);color:#e8ffe8;line-height:1.5}
+.wrap{max-width:720px;margin:auto;padding:16px}
+h1{margin:8px 0 12px;font-size:28px;color:var(--lime);letter-spacing:1px}
+.card{background:var(--card);border:1px solid #1e331e;border-radius:16px;padding:14px 14px;margin:12px 0}
+.live{color:var(--lime);font-weight:700;font-size:16px}
+.meta{color:var(--dim);font-size:13px;word-break:break-all}
+a{color:var(--lime);text-decoration:none;border-bottom:1px dashed #2a5a2a}
+.row{display:flex;gap:8px;flex-wrap:wrap}
+.pill{border:1px solid #2a5a2a;border-radius:999px;padding:4px 10px;font-size:12px;color:var(--dim)}
+pre{white-space:pre-wrap;word-break:break-all;background:#0a140a;border-radius:12px;padding:12px;font-size:11px;max-height:420px;overflow:auto;margin:0}
+h3{margin:0 0 8px;font-size:14px;color:var(--lime)}
 </style>
 </head>
 <body>
+<div class="wrap">
 <h1>POND Embassy</h1>
-<div class="block">
- <span class="live">1609 total = 1608 blocks + 1 thesis LIVE</span><br>
- Chain: 921KB | Ghoul V5.4 pid 2877<br>
- Baseline: 1417 idx 1416 sha 0c0c72b7 Fri Oct 23 10:14Z<br>
- Drift: -6 SLOW | ATTESTED 4x<br>
- BTC: 972367 anchor 000000000000000000017a1f...<br>
- GPS: 30.12613,-9.37437 Biougra<br>
- Commit: eeb19cc @ 2026-10-24 19:13 Biougra
+
+<div class="card">
+<div class="live">● 1609 total = 1608 blocks + 1 thesis LIVE</div>
+<div class="meta">
+Chain: 921KB / 588.9k public<br>
+Ghoul V5.4 pid 2877 — Biougra, Inezgane, MA<br>
+Baseline: 1417 idx 1416 sha 0c0c72b7 Fri Oct 23 10:14Z<br>
+Drift: -6 SLOW [(1034,1282),(1037,1281),(1425,1599)] ATTESTED 4x<br>
+BTC anchor: 972367 → 972583 current | Commit: ee00d58<br>
+GPS: 30.12613,-9.37437 | Sun: OK | BTC REORG: OK
 </div>
-<div class="block">
- <a href="chain.json">chain.json (full chain 589k)</a><br>
- <a href="kernel/state/chain.json">kernel/state/chain.json</a><br>
- <a href="pond.log">pond.log</a> | <a href="health.log">health.log</a>
+<div class="row" style="margin-top:10px">
+<span class="pill">HEALTH: OK</span>
+<span class="pill">Thesis 1453 LIVE</span>
+<span class="pill">192 since baseline</span>
 </div>
-<div class="block" id="last">Loading last block...</div>
+</div>
+
+<div class="card">
+<h3>Files</h3>
+<div class="row">
+<a href="chain.json">chain.json</a>
+<a href="kernel/state/chain.json">kernel/state</a>
+<a href="pond.log">pond.log</a>
+<a href="health.log">health.log</a>
+<a href="miner.log">miner.log</a>
+</div>
+</div>
+
+<div class="card">
+<h3>Last Block — idx 1608</h3>
+<pre id="last">Loading chain.json...</pre>
+</div>
+
+<div class="meta" style="text-align:center;margin-top:16px">Block timing is clock — Biougra 2026-10-24 19:07 UTC — Ghoul V5.4</div>
+</div>
+
 <script>
 fetch('chain.json').then(r=>r.json()).then(c=>{
- let last=c[c.length-1];
- document.getElementById('last').innerText=JSON.stringify(last,null,2).slice(-800);
+ const last=c[c.length-1];
+ const nice={
+  pondId:last.pondId||last.hash,
+  index:last.payload?.index||c.length-1,
+  ts:last.payload?.ts||last.ts,
+  btcHeight:last.payload?.btcHeight||last.btcHeight,
+  sunAltitude:last.payload?.sunAltitude||last.sunAltitude,
+  merkle_root:last.payload?.merkle_root,
+  btc_anchor_hash:last.btc_anchor_hash
+ };
+ document.getElementById('last').textContent=JSON.stringify(nice,null,2);
+}).catch(e=>{
+ document.getElementById('last').textContent='Failed to load chain.json: '+e;
 });
 </script>
 </body>

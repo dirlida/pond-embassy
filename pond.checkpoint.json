@@ -1,0 +1,11 @@
+{
+  "start_idx": 0,
+  "end_idx": 636,
+  "merkle_root": "73ca54fec7ff0df983f2be72584080a49e610f62a0989fe0f343ac8cfb6b305c",
+  "btc_start": 969609,
+  "btc_end": 972583,
+  "total_shed": 637,
+  "total_kept": 1000,
+  "total_chain": 1633,
+  "thesis": "1453 LIVE"
+}

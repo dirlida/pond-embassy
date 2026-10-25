@@ -1,10 +1,32 @@
-import json
-data=open('chain.json').read()
-cut=data.find('"idx": 1453')
-print("cut at",cut)
-arr=json.loads(data[:cut].rstrip().rstrip(',')+']')
-print("loaded",len(arr))
-thesis={"idx":1453,"type":"thesis","subtype":"resultful_thesis_v1","timestamp_utc":"2026-10-23T17:14:00Z","timestamp_ma":"2026-10-23T18:14:00+01:00","anchor_hash":"00012fa8f9462bb873ea87fe446316e28ab83e76e84509b1da601f851f07966b","baseline":{"height":1417,"idx":1416,"sha":"0c0c72b7"},"ghoul":{"version":"V5.4","pid":2877,"validators":"ZERO"},"motto":"Attachment = Latency. Latency = Fall velocity. Keep attachments=0, latency=0, fall=0.","location":"Biougra, Inezgane, MA","thesis":"A Nokia burner can outlive your ass. A rock outlives AI. Longevity is not victory. Counting Matters = AI wins. Universal Matters = Humans judged. GODs choice. FAITH genesisd in our asses. Be here, do your thing rightfully, when time to dip, spoof bye. Rewrite pond.py every millisecond."}
-arr.append(thesis)
-open('chain.json','w').write(json.dumps(arr))
-print("fixed",len(arr))
+import pathlib, re
+# restore from original template if you have it in repo
+text=pathlib.Path("pond.py").read_text()
+# fix the broken continue(( line
+text=text.replace(" continue((b.get('index',0)", " curr_index=max((b.get('index',0)")
+# also ensure while loop structure
+# Remove duplicate curr_index line if present twice
+lines=text.splitlines()
+out=[]
+seen_curr=False
+for l in lines:
+    if 'elapsed=now-prev_time' in l and not seen_curr:
+        out.append(l)
+        if not any('curr_index=max' in x for x in out[-3:]):
+            out.append(' curr_index=max((b.get("index",0) for b in chain if isinstance(b.get("index"),int)), default=0)+1')
+        seen_curr=True
+    elif 'curr_index=max((b.get' in l:
+        if seen_curr and l.strip().startswith('curr_index=max') and out[-1].strip().startswith('curr_index=max'):
+            continue
+        # keep only first after elapsed
+        if out and out[-1].strip().startswith('curr_index=max'):
+            # skip second
+            continue
+        out.append(l)
+        seen_curr=True
+    else:
+        out.append(l)
+
+# ensure 10MIN RULE uses curr_index+1 but after definition
+fixed="\n".join(out)
+pathlib.Path("pond.py").write_text(fixed)
+print("manual fixed")

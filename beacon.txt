@@ -1,0 +1,5 @@
+● POND 1866
+COUNT 1395 | KERNEL fbcbad2c5324f560
+mono 1543021s | 2026-10-26 20:43:44
+ATTESTED 17x | 4896b
+https://dirlida.github.io/pond-embassy/

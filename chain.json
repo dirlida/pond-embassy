@@ -31572,5 +31572,401 @@
     "stamps": [],
     "security": "IBM lived RTC+earth+sun+kernel",
     "reason": "10m stable"
+  },
+  {
+    "idx": 1810,
+    "count": 1810,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 08:45:49",
+      "end": "2026-10-26 08:59:39",
+      "wall_delta": 829,
+      "boot_delta": 829
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 64.11,
+      "end": 61.7,
+      "delta": -2.415
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "13m stable"
+  },
+  {
+    "idx": 1811,
+    "count": 1811,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 08:59:39",
+      "end": "2026-10-26 09:10:10",
+      "wall_delta": 630,
+      "boot_delta": 630
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 61.7,
+      "end": 59.86,
+      "delta": -1.834
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1812,
+    "count": 1812,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 09:10:10",
+      "end": "2026-10-26 09:24:57",
+      "wall_delta": 886,
+      "boot_delta": 886
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 59.86,
+      "end": 57.46,
+      "delta": -2.401
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "14m stable"
+  },
+  {
+    "idx": 1813,
+    "count": 1813,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 09:24:57",
+      "end": "2026-10-26 09:35:24",
+      "wall_delta": 627,
+      "boot_delta": 627
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 57.46,
+      "end": 55.93,
+      "delta": -1.53
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1814,
+    "count": 1814,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 09:35:24",
+      "end": "2026-10-26 09:45:55",
+      "wall_delta": 630,
+      "boot_delta": 630
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 55.93,
+      "end": 54.32,
+      "delta": -1.61
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1815,
+    "count": 1815,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 09:45:55",
+      "end": "2026-10-26 10:00:48",
+      "wall_delta": 892,
+      "boot_delta": 892
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 54.32,
+      "end": 52.4,
+      "delta": -1.928
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "14m stable"
+  },
+  {
+    "idx": 1816,
+    "count": 1816,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 10:00:48",
+      "end": "2026-10-26 10:11:19",
+      "wall_delta": 630,
+      "boot_delta": 630
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 52.4,
+      "end": 50.99,
+      "delta": -1.41
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1817,
+    "count": 1817,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 10:11:19",
+      "end": "2026-10-26 10:21:49",
+      "wall_delta": 630,
+      "boot_delta": 630
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 50.99,
+      "end": 49.79,
+      "delta": -1.195
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1818,
+    "count": 1818,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 10:21:49",
+      "end": "2026-10-26 10:32:20",
+      "wall_delta": 630,
+      "boot_delta": 630
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 49.79,
+      "end": 48.58,
+      "delta": -1.211
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1819,
+    "count": 1819,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 10:32:20",
+      "end": "2026-10-26 10:42:50",
+      "wall_delta": 630,
+      "boot_delta": 630
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 48.58,
+      "end": 47.58,
+      "delta": -1.0
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
+  },
+  {
+    "idx": 1820,
+    "count": 1820,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 10:42:50",
+      "end": "2026-10-26 11:06:25",
+      "wall_delta": 1414,
+      "boot_delta": 1414
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 47.58,
+      "end": 45.61,
+      "delta": -1.97
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "23m stable"
+  },
+  {
+    "idx": 1821,
+    "count": 1821,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 11:06:25",
+      "end": "2026-10-26 11:16:52",
+      "wall_delta": 627,
+      "boot_delta": 627
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 45.61,
+      "end": 44.98,
+      "delta": -0.627
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "10m stable"
   }
 ]

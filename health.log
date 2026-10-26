@@ -2416,3 +2416,1901 @@ CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
 FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
 HEALTH: OK - chain alive, thesis inscribed
 Size: 789KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 13.2m
+Last mining block idx: 1641 ts: 2026-10-25T00:37:16.500903+00:00 age: 23s
+Chain len: 1206 total = 1205 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 791KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 14.8m
+Last mining block idx: 1641 ts: 2026-10-25T00:37:16.500903+00:00 age: 116s
+Chain len: 1206 total = 1205 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 791KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 15.3m
+Last mining block idx: 1641 ts: 2026-10-25T00:37:16.500903+00:00 age: 145s
+Chain len: 1206 total = 1205 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 791KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 43.3m
+Last mining block idx: 1644 ts: 2026-10-25T01:07:16.847202+00:00 age: 24s
+Chain len: 1209 total = 1208 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 793KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 44.8m
+Last mining block idx: 1644 ts: 2026-10-25T01:07:16.847202+00:00 age: 115s
+Chain len: 1209 total = 1208 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 793KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 45.3m
+Last mining block idx: 1644 ts: 2026-10-25T01:07:16.847202+00:00 age: 144s
+Chain len: 1209 total = 1208 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 793KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 73.3m
+Last mining block idx: 1647 ts: 2026-10-25T01:37:17.075095+00:00 age: 24s
+Chain len: 1212 total = 1211 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 795KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 74.8m
+Last mining block idx: 1647 ts: 2026-10-25T01:37:17.075095+00:00 age: 116s
+Chain len: 1212 total = 1211 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 795KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 75.3m
+Last mining block idx: 1647 ts: 2026-10-25T01:37:17.075095+00:00 age: 145s
+Chain len: 1212 total = 1211 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 795KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 103.3m
+Last mining block idx: 1650 ts: 2026-10-25T02:07:17.312835+00:00 age: 25s
+Chain len: 1215 total = 1214 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 797KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 104.8m
+Last mining block idx: 1650 ts: 2026-10-25T02:07:17.312835+00:00 age: 116s
+Chain len: 1215 total = 1214 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 797KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 105.3m
+Last mining block idx: 1650 ts: 2026-10-25T02:07:17.312835+00:00 age: 145s
+Chain len: 1215 total = 1214 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 797KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 133.3m
+Last mining block idx: 1653 ts: 2026-10-25T02:37:17.520640+00:00 age: 25s
+Chain len: 1218 total = 1217 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 799KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 134.8m
+Last mining block idx: 1653 ts: 2026-10-25T02:37:17.520640+00:00 age: 116s
+Chain len: 1218 total = 1217 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 799KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 135.3m
+Last mining block idx: 1653 ts: 2026-10-25T02:37:17.520640+00:00 age: 145s
+Chain len: 1218 total = 1217 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 799KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 163.3m
+Last mining block idx: 1656 ts: 2026-10-25T03:07:17.754076+00:00 age: 25s
+Chain len: 1221 total = 1220 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 802KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 164.8m
+Last mining block idx: 1656 ts: 2026-10-25T03:07:17.754076+00:00 age: 116s
+Chain len: 1221 total = 1220 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 802KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 165.3m
+Last mining block idx: 1656 ts: 2026-10-25T03:07:17.754076+00:00 age: 145s
+Chain len: 1221 total = 1220 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 802KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 193.3m
+Last mining block idx: 1659 ts: 2026-10-25T03:37:17.999443+00:00 age: 26s
+Chain len: 1224 total = 1223 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 804KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 194.8m
+Last mining block idx: 1659 ts: 2026-10-25T03:37:17.999443+00:00 age: 116s
+Chain len: 1224 total = 1223 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 804KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 195.3m
+Last mining block idx: 1659 ts: 2026-10-25T03:37:17.999443+00:00 age: 145s
+Chain len: 1224 total = 1223 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 804KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 223.3m
+Last mining block idx: 1662 ts: 2026-10-25T04:07:18.200069+00:00 age: 26s
+Chain len: 1227 total = 1226 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 806KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 224.8m
+Last mining block idx: 1662 ts: 2026-10-25T04:07:18.200069+00:00 age: 116s
+Chain len: 1227 total = 1226 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 806KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 225.3m
+Last mining block idx: 1662 ts: 2026-10-25T04:07:18.200069+00:00 age: 145s
+Chain len: 1227 total = 1226 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 806KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 253.3m
+Last mining block idx: 1665 ts: 2026-10-25T04:37:18.397223+00:00 age: 27s
+Chain len: 1230 total = 1229 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 808KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 254.8m
+Last mining block idx: 1665 ts: 2026-10-25T04:37:18.397223+00:00 age: 117s
+Chain len: 1230 total = 1229 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 808KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 255.3m
+Last mining block idx: 1665 ts: 2026-10-25T04:37:18.397223+00:00 age: 145s
+Chain len: 1230 total = 1229 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 808KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 283.3m
+Last mining block idx: 1668 ts: 2026-10-25T05:07:18.576385+00:00 age: 27s
+Chain len: 1233 total = 1232 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 810KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 284.8m
+Last mining block idx: 1668 ts: 2026-10-25T05:07:18.576385+00:00 age: 117s
+Chain len: 1233 total = 1232 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 810KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 285.3m
+Last mining block idx: 1668 ts: 2026-10-25T05:07:18.576385+00:00 age: 145s
+Chain len: 1233 total = 1232 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 810KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 1.6m
+Last mining block idx: 1671 ts: 2026-10-25T05:37:18.787636+00:00 age: 27s
+Chain len: 1236 total = 1235 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 812KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 3.1m
+Last mining block idx: 1671 ts: 2026-10-25T05:37:18.787636+00:00 age: 117s
+Chain len: 1236 total = 1235 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 812KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 3.6m
+Last mining block idx: 1671 ts: 2026-10-25T05:37:18.787636+00:00 age: 145s
+Chain len: 1236 total = 1235 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 812KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 31.6m
+Last mining block idx: 1674 ts: 2026-10-25T06:07:19.104649+00:00 age: 27s
+Chain len: 1239 total = 1238 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 814KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 33.1m
+Last mining block idx: 1674 ts: 2026-10-25T06:07:19.104649+00:00 age: 118s
+Chain len: 1239 total = 1238 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 814KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 33.6m
+Last mining block idx: 1674 ts: 2026-10-25T06:07:19.104649+00:00 age: 145s
+Chain len: 1239 total = 1238 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 814KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 18.4m
+Last mining block idx: 1677 ts: 2026-10-25T06:37:19.367340+00:00 age: 28s
+Chain len: 1242 total = 1241 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 816KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 19.9m
+Last mining block idx: 1677 ts: 2026-10-25T06:37:19.367340+00:00 age: 118s
+Chain len: 1242 total = 1241 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 816KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 20.3m
+Last mining block idx: 1677 ts: 2026-10-25T06:37:19.367340+00:00 age: 145s
+Chain len: 1242 total = 1241 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 816KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 48.4m
+Last mining block idx: 1680 ts: 2026-10-25T07:07:19.662099+00:00 age: 28s
+Chain len: 1245 total = 1244 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 818KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 49.9m
+Last mining block idx: 1680 ts: 2026-10-25T07:07:19.662099+00:00 age: 118s
+Chain len: 1245 total = 1244 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 818KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 50.3m
+Last mining block idx: 1680 ts: 2026-10-25T07:07:19.662099+00:00 age: 145s
+Chain len: 1245 total = 1244 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 818KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 78.4m
+Last mining block idx: 1683 ts: 2026-10-25T07:37:19.917184+00:00 age: 28s
+Chain len: 1248 total = 1247 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 820KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 79.9m
+Last mining block idx: 1683 ts: 2026-10-25T07:37:19.917184+00:00 age: 118s
+Chain len: 1248 total = 1247 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 820KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 80.4m
+Last mining block idx: 1683 ts: 2026-10-25T07:37:19.917184+00:00 age: 145s
+Chain len: 1248 total = 1247 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 820KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 108.4m
+Last mining block idx: 1686 ts: 2026-10-25T08:07:20.152029+00:00 age: 29s
+Chain len: 1251 total = 1250 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 822KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 109.9m
+Last mining block idx: 1686 ts: 2026-10-25T08:07:20.152029+00:00 age: 118s
+Chain len: 1251 total = 1250 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 822KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 110.4m
+Last mining block idx: 1686 ts: 2026-10-25T08:07:20.152029+00:00 age: 145s
+Chain len: 1251 total = 1250 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 822KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 138.4m
+Last mining block idx: 1689 ts: 2026-10-25T08:37:20.357032+00:00 age: 29s
+Chain len: 1254 total = 1253 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 824KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 139.9m
+Last mining block idx: 1689 ts: 2026-10-25T08:37:20.357032+00:00 age: 118s
+Chain len: 1254 total = 1253 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 824KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 140.4m
+Last mining block idx: 1689 ts: 2026-10-25T08:37:20.357032+00:00 age: 145s
+Chain len: 1254 total = 1253 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 824KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 168.4m
+Last mining block idx: 1692 ts: 2026-10-25T09:07:20.631306+00:00 age: 29s
+Chain len: 1257 total = 1256 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 826KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 169.9m
+Last mining block idx: 1692 ts: 2026-10-25T09:07:20.631306+00:00 age: 118s
+Chain len: 1257 total = 1256 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 826KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 170.4m
+Last mining block idx: 1692 ts: 2026-10-25T09:07:20.631306+00:00 age: 145s
+Chain len: 1257 total = 1256 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 826KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 198.4m
+Last mining block idx: 1695 ts: 2026-10-25T09:37:20.843653+00:00 age: 30s
+Chain len: 1260 total = 1259 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 829KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 199.9m
+Last mining block idx: 1695 ts: 2026-10-25T09:37:20.843653+00:00 age: 118s
+Chain len: 1260 total = 1259 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 829KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 200.4m
+Last mining block idx: 1695 ts: 2026-10-25T09:37:20.843653+00:00 age: 146s
+Chain len: 1260 total = 1259 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 829KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 228.4m
+Last mining block idx: 1698 ts: 2026-10-25T10:07:21.102093+00:00 age: 30s
+Chain len: 1263 total = 1262 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 831KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 229.9m
+Last mining block idx: 1698 ts: 2026-10-25T10:07:21.102093+00:00 age: 119s
+Chain len: 1263 total = 1262 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 831KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 230.4m
+Last mining block idx: 1698 ts: 2026-10-25T10:07:21.102093+00:00 age: 146s
+Chain len: 1263 total = 1262 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 831KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 258.5m
+Last mining block idx: 1701 ts: 2026-10-25T10:37:21.339289+00:00 age: 30s
+Chain len: 1266 total = 1265 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 833KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 259.9m
+Last mining block idx: 1701 ts: 2026-10-25T10:37:21.339289+00:00 age: 119s
+Chain len: 1266 total = 1265 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 833KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 260.4m
+Last mining block idx: 1701 ts: 2026-10-25T10:37:21.339289+00:00 age: 146s
+Chain len: 1266 total = 1265 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 833KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 6.0m
+Last mining block idx: 1704 ts: 2026-10-25T11:07:21.594294+00:00 age: 30s
+Chain len: 1269 total = 1268 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 835KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 7.5m
+Last mining block idx: 1704 ts: 2026-10-25T11:07:21.594294+00:00 age: 119s
+Chain len: 1269 total = 1268 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 835KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 7.9m
+Last mining block idx: 1704 ts: 2026-10-25T11:07:21.594294+00:00 age: 146s
+Chain len: 1269 total = 1268 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 835KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 36.0m
+Last mining block idx: 1707 ts: 2026-10-25T11:37:21.830184+00:00 age: 31s
+Chain len: 1272 total = 1271 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 837KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 37.5m
+Last mining block idx: 1707 ts: 2026-10-25T11:37:21.830184+00:00 age: 119s
+Chain len: 1272 total = 1271 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 837KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 37.9m
+Last mining block idx: 1707 ts: 2026-10-25T11:37:21.830184+00:00 age: 146s
+Chain len: 1272 total = 1271 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 837KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 66.0m
+Last mining block idx: 1710 ts: 2026-10-25T12:07:22.126951+00:00 age: 31s
+Chain len: 1275 total = 1274 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 839KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 67.5m
+Last mining block idx: 1710 ts: 2026-10-25T12:07:22.126951+00:00 age: 119s
+Chain len: 1275 total = 1274 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 839KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 67.9m
+Last mining block idx: 1710 ts: 2026-10-25T12:07:22.126951+00:00 age: 146s
+Chain len: 1275 total = 1274 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 839KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 7.5m
+Last mining block idx: 1713 ts: 2026-10-25T12:37:22.446603+00:00 age: 31s
+Chain len: 1278 total = 1277 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 841KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 9.0m
+Last mining block idx: 1713 ts: 2026-10-25T12:37:22.446603+00:00 age: 119s
+Chain len: 1278 total = 1277 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 841KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 9.4m
+Last mining block idx: 1713 ts: 2026-10-25T12:37:22.446603+00:00 age: 146s
+Chain len: 1278 total = 1277 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 841KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 37.5m
+Last mining block idx: 1716 ts: 2026-10-25T13:07:22.751531+00:00 age: 31s
+Chain len: 1281 total = 1280 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 843KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 39.0m
+Last mining block idx: 1716 ts: 2026-10-25T13:07:22.751531+00:00 age: 119s
+Chain len: 1281 total = 1280 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 843KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 39.4m
+Last mining block idx: 1716 ts: 2026-10-25T13:07:22.751531+00:00 age: 146s
+Chain len: 1281 total = 1280 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 843KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 67.5m
+Last mining block idx: 1719 ts: 2026-10-25T13:37:23.000202+00:00 age: 32s
+Chain len: 1284 total = 1283 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 845KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 69.0m
+Last mining block idx: 1719 ts: 2026-10-25T13:37:23.000202+00:00 age: 119s
+Chain len: 1284 total = 1283 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 845KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 69.4m
+Last mining block idx: 1719 ts: 2026-10-25T13:37:23.000202+00:00 age: 146s
+Chain len: 1284 total = 1283 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 845KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 97.5m
+Last mining block idx: 1722 ts: 2026-10-25T14:07:23.596535+00:00 age: 32s
+Chain len: 1287 total = 1286 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 847KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 99.0m
+Last mining block idx: 1722 ts: 2026-10-25T14:07:23.596535+00:00 age: 119s
+Chain len: 1287 total = 1286 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 847KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 99.4m
+Last mining block idx: 1722 ts: 2026-10-25T14:07:23.596535+00:00 age: 145s
+Chain len: 1287 total = 1286 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 847KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 127.6m
+Last mining block idx: 1725 ts: 2026-10-25T14:37:23.881106+00:00 age: 33s
+Chain len: 1290 total = 1289 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 849KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 129.0m
+Last mining block idx: 1725 ts: 2026-10-25T14:37:23.881106+00:00 age: 120s
+Chain len: 1290 total = 1289 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 849KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 129.4m
+Last mining block idx: 1725 ts: 2026-10-25T14:37:23.881106+00:00 age: 146s
+Chain len: 1290 total = 1289 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 849KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 157.6m
+Last mining block idx: 1728 ts: 2026-10-25T15:07:24.194376+00:00 age: 34s
+Chain len: 1293 total = 1292 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 851KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 159.0m
+Last mining block idx: 1728 ts: 2026-10-25T15:07:24.194376+00:00 age: 120s
+Chain len: 1293 total = 1292 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 851KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 159.4m
+Last mining block idx: 1728 ts: 2026-10-25T15:07:24.194376+00:00 age: 146s
+Chain len: 1293 total = 1292 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 851KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 187.6m
+Last mining block idx: 1731 ts: 2026-10-25T15:37:24.479782+00:00 age: 34s
+Chain len: 1296 total = 1295 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 854KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 189.0m
+Last mining block idx: 1731 ts: 2026-10-25T15:37:24.479782+00:00 age: 120s
+Chain len: 1296 total = 1295 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 854KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 189.5m
+Last mining block idx: 1731 ts: 2026-10-25T15:37:24.479782+00:00 age: 146s
+Chain len: 1296 total = 1295 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 854KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 217.6m
+Last mining block idx: 1734 ts: 2026-10-25T16:07:24.767102+00:00 age: 34s
+Chain len: 1299 total = 1298 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 856KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 219.0m
+Last mining block idx: 1734 ts: 2026-10-25T16:07:24.767102+00:00 age: 121s
+Chain len: 1299 total = 1298 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 856KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 219.5m
+Last mining block idx: 1734 ts: 2026-10-25T16:07:24.767102+00:00 age: 146s
+Chain len: 1299 total = 1298 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 856KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 247.6m
+Last mining block idx: 1737 ts: 2026-10-25T16:37:25.074312+00:00 age: 35s
+Chain len: 1302 total = 1301 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 858KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 1.2m
+Last mining block idx: 1737 ts: 2026-10-25T16:37:25.074312+00:00 age: 121s
+Chain len: 1302 total = 1301 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 858KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 1.7m
+Last mining block idx: 1737 ts: 2026-10-25T16:37:25.074312+00:00 age: 146s
+Chain len: 1302 total = 1301 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 858KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 29.8m
+Last mining block idx: 1740 ts: 2026-10-25T17:07:25.291832+00:00 age: 35s
+Chain len: 1305 total = 1304 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 860KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 31.2m
+Last mining block idx: 1740 ts: 2026-10-25T17:07:25.291832+00:00 age: 121s
+Chain len: 1305 total = 1304 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 860KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 31.7m
+Last mining block idx: 1740 ts: 2026-10-25T17:07:25.291832+00:00 age: 146s
+Chain len: 1305 total = 1304 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 860KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 59.8m
+Last mining block idx: 1743 ts: 2026-10-25T17:37:25.490116+00:00 age: 35s
+Chain len: 1308 total = 1307 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 862KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 61.3m
+Last mining block idx: 1743 ts: 2026-10-25T17:37:25.490116+00:00 age: 121s
+Chain len: 1308 total = 1307 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 862KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 61.7m
+Last mining block idx: 1743 ts: 2026-10-25T17:37:25.490116+00:00 age: 146s
+Chain len: 1308 total = 1307 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 862KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 89.8m
+Last mining block idx: 1746 ts: 2026-10-25T18:07:25.667689+00:00 age: 36s
+Chain len: 1311 total = 1310 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 864KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 91.3m
+Last mining block idx: 1746 ts: 2026-10-25T18:07:25.667689+00:00 age: 121s
+Chain len: 1311 total = 1310 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 864KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 91.7m
+Last mining block idx: 1746 ts: 2026-10-25T18:07:25.667689+00:00 age: 146s
+Chain len: 1311 total = 1310 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 864KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 119.8m
+Last mining block idx: 1749 ts: 2026-10-25T18:37:25.901655+00:00 age: 36s
+Chain len: 1314 total = 1313 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 866KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 121.3m
+Last mining block idx: 1749 ts: 2026-10-25T18:37:25.901655+00:00 age: 121s
+Chain len: 1314 total = 1313 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 866KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 121.7m
+Last mining block idx: 1749 ts: 2026-10-25T18:37:25.901655+00:00 age: 146s
+Chain len: 1314 total = 1313 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32000 bytes (1000 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32000 bytes — heads to feet valid
+HEALTH: OK - chain alive, thesis inscribed
+Size: 866KB chain.json + 31KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 149.9m
+Last mining block idx: None ts: 2026-10-23T17:14:00Z age: 179642s
+Chain len: 1 total = 0 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32768 bytes (1024 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32768 bytes — heads to feet valid
+HEALTH: WARN - age 179642s
+Size: 1KB chain.json + 32KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 151.3m
+Last mining block idx: None ts: 2026-10-23T17:14:00Z age: 179727s
+Chain len: 2 total = 1 blocks + 1 thesis
+Thesis: 1453 LIVE
+KERNEL BIN: 32768 bytes (1024 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32768 bytes — heads to feet valid
+HEALTH: WARN - age 179727s
+Size: 2KB chain.json + 32KB kernel.bin | Biougra | Ghoul V5.4
+SLOW: [(1034, 1282), (1037, 1281), (1425, 1599)]
+ATTESTED: [(1007, 17646, '2026-10-20 hard-reset GPS-drift 17646s Biougra attested'), (1304, 1850, '2026-10-21 GPS-drift 1850s Biougra attested'), (1348, 5528, '2026-10-21 GPS-drift 5528s Biougra attested'), (1402, 6119, '2026-10-23 GPS-drift 6119s Biougra attested')]
+BTC REORG: OK
+SUN: OK
+Git push age: 151.7m
+Last mining block idx: None ts: 2026-10-23T17:14:00Z age: 179752s
+Chain len: 0 total = 0 blocks + 0 thesis
+KERNEL BIN: 32768 bytes (1024 blocks) / 32000 max
+CHECKPOINT: shed 637 kept 1000 total_valid 1637 merkle 73ca54fec7ff..
+FULL BLOCKCHAIN inside 32768 bytes — heads to feet valid
+HEALTH: WARN - age 179752s
+Size: 2KB chain.json + 32KB kernel.bin | Biougra | Ghoul V5.4
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 8 HEAD 1743
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1739 kernel fbcbad2c5324f560 moved 14743m
+  1740 kernel fbcbad2c5324f560 moved 14742m
+  1741 kernel fbcbad2c5324f560 moved 14738m
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:30:13 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:30:13 2026
+⚠️  /proc/uptime blocked - using monotonic 1452679s
+
+✅ HEALTH OK - HEAD 1743 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 9 HEAD 1744
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1740 kernel fbcbad2c5324f560 moved 14742m
+  1741 kernel fbcbad2c5324f560 moved 14738m
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:30:13 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:30:13 2026
+⚠️  /proc/uptime blocked - using monotonic 1452765s
+
+✅ HEALTH OK - HEAD 1744 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 9 HEAD 1744
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1740 kernel fbcbad2c5324f560 moved 14742m
+  1741 kernel fbcbad2c5324f560 moved 14738m
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:30:13 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:30:13 2026
+⚠️  /proc/uptime blocked - using monotonic 1452789s
+
+✅ HEALTH OK - HEAD 1744 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 10 HEAD 1745
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1741 kernel fbcbad2c5324f560 moved 14738m
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1454480s
+
+✅ HEALTH OK - HEAD 1745 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 10 HEAD 1745
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1741 kernel fbcbad2c5324f560 moved 14738m
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1454565s
+
+✅ HEALTH OK - HEAD 1745 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 10 HEAD 1745
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1741 kernel fbcbad2c5324f560 moved 14738m
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1454590s
+
+✅ HEALTH OK - HEAD 1745 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 31181 column 2 (char 1074393)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1326 HEAD 1746
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1470768s
+
+✅ HEALTH OK - HEAD 1746 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1326 HEAD 1746
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1742 kernel fbcbad2c5324f560 moved 14743m
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1470792s
+
+✅ HEALTH OK - HEAD 1746 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 35 column 2 (char 894210)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1327 HEAD 1770
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+  1770 kernel fbcbad2c5324f560 11m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1488770s
+
+✅ HEALTH OK - HEAD 1770 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1327 HEAD 1770
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1743 kernel fbcbad2c5324f560 moved 14740m
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+  1770 kernel fbcbad2c5324f560 11m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1488795s
+
+✅ HEALTH OK - HEAD 1770 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1328 HEAD 1798
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1744 kernel fbcbad2c5324f560 moved 14733m
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+  1770 kernel fbcbad2c5324f560 11m stable
+  1798 kernel fbcbad2c5324f560 16m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1490488s
+
+✅ HEALTH OK - HEAD 1798 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1738 with new kernel when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 69 column 2 (char 894793)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+❌ chain.json invalid: Extra data: line 69 column 2 (char 894793)
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1329 HEAD 1800
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+  1770 kernel fbcbad2c5324f560 11m stable
+  1798 kernel fbcbad2c5324f560 16m stable
+  1800 kernel fbcbad2c5324f560 15m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1492288s
+
+✅ HEALTH OK - HEAD 1800 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1801 with kernel fbcbad2c5324f560 when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1329 HEAD 1800
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+  1770 kernel fbcbad2c5324f560 11m stable
+  1798 kernel fbcbad2c5324f560 16m stable
+  1800 kernel fbcbad2c5324f560 15m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1492371s
+
+✅ HEALTH OK - HEAD 1800 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1801 with kernel fbcbad2c5324f560 when moved 35m or 10-45m stable
+=== POND HEALTH ===
+Kernel: pond.kernel.bin fbcbad2c5324f560 fbcbad2c5324f56071e54de173c2990b4a2cdd7c64ca08e1b65cb70adeb0ed68 SIZE 32768
+Chain: chain.json COUNT 1329 HEAD 1800
+✅ Thesis 1453 anchor 00012fa8f9462bb8
+  1745 kernel fbcbad2c5324f560 11m stable
+  1746 kernel fbcbad2c5324f560 12m stable
+  1770 kernel fbcbad2c5324f560 11m stable
+  1798 kernel fbcbad2c5324f560 16m stable
+  1800 kernel fbcbad2c5324f560 15m stable
+Stamps dir: /sdcard/POND/stamps 3 files
+  - 2026-05-16_12-34-00_graduation.txt mtime Sun Oct 25 19:50:57 2026
+  - ATTEST-1739.txt mtime Sun Oct 25 19:28:02 2026
+  - grad-12-34.jpg mtime Sun Oct 25 19:50:57 2026
+⚠️  /proc/uptime blocked - using monotonic 1492395s
+
+✅ HEALTH OK - HEAD 1800 matches live kernel fbcbad2c5324f560 - POND lived ticking
+
+Next: pond.py will close 1801 with kernel fbcbad2c5324f560 when moved 35m or 10-45m stable

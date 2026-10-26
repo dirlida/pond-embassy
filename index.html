@@ -1,56 +1,46 @@
 <!doctype html>
-<html lang="en">
+<html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>POND</title>
 <style>
-:root{--bg:#080d08;--card:#111a11;--lime:#7fff7f;--dim:#9bbf9b;--line:#1e331e}
-*{box-sizing:border-box}
-body{margin:0;font-family:ui-monospace,Menlo,monospace;background:var(--bg);color:#e8ffe8;line-height:1.6}
+body{margin:0;font-family:ui-monospace,monospace;background:#080d08;color:#e8ffe8}
 .wrap{max-width:720px;margin:auto;padding:20px}
-h1{color:var(--lime);font-size:32px;margin:12px 0;letter-spacing:2px}
-h2{color:var(--lime);font-size:14px;margin:24px 0 8px;text-transform:uppercase;letter-spacing:1px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 16px;margin:10px 0}
-a{color:var(--lime);text-decoration:none;border-bottom:1px dashed #2a5a2a}
-.dim{color:var(--dim);font-size:13px}
-pre{white-space:pre-wrap;word-break:break-all;background:#0a140a;border-radius:12px;padding:12px;font-size:12px;margin:0;border:1px solid var(--line)}
-code{background:#0a140a;padding:2px 6px;border-radius:6px;font-size:12px}
-.row{display:flex;gap:8px;flex-wrap:wrap}
-.pill{border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:11px;color:var(--dim)}
+h1{color:#7fff7f}
+.card{background:#111a11;border:1px solid #1e331e;border-radius:16px;padding:14px;margin:10px 0}
+.dim{color:#9bbf9b;font-size:13px}
+pre{white-space:pre-wrap;background:#0a140a;padding:12px;border-radius:12px;border:1px solid #1e331e}
+a{color:#7fff7f}
 </style>
 </head>
 <body>
 <div class="wrap">
 <h1>POND</h1>
-<div class="card dim">Single-process chain. Device holds live chain. This site is presentation.</div>
-
-<h2>Files</h2>
-<div class="card"><pre>pond.py
+<div class="card dim">Single-process chain. Device holds live chain. Site is presentation.</div>
+<div class="card"><pre id="live">loading live...</pre></div>
+<div class="card"><pre>Files:
+pond.py
 pond.kernel.bin
 chain.json
 stamps/
-keys/</pre></div>
+keys/
 
-<h2>Run</h2>
-<div class="card"><pre>nohup python pond.py > pond.log &</pre></div>
+Run:
+nohup python pond.py > pond.log &
 
-<h2>Live</h2>
-<div class="card">
-<div class="row"><span class="pill">chain.json</span><span class="pill">pond.log</span><span class="pill">stamps/</span></div>
-<p class="dim">Live values are in chain.json on device. This page is static snapshot of build structure, not chain height.</p>
-</div>
-
-<h2>Check</h2>
-<div class="card"><pre>python health.py
-cat chain.json | tail -20
-tail pond.log</pre></div>
-
-<h2>Source</h2>
+Check:
+python health.py</pre></div>
 <div class="card"><a href="https://github.com/dirlida/pond-embassy">github.com/dirlida/pond-embassy</a></div>
-
-<h2>Archive</h2>
-<div class="card dim">docs/old-behavior-2026-10-23</div>
 </div>
+<script>
+fetch('./live.json?'+Date.now()).then(r=>r.json()).then(d=>{
+ document.getElementById('live').textContent =
+ `LIVE ${d.HEAD} COUNT ${d.COUNT} KERNEL ${d.KERNEL}
+mono ${d.mono}
+time ${d.time}
+stamps ${d.stamps} | log ${d.log_bytes}b`;
+}).catch(()=>{document.getElementById('live').textContent='live.json not yet pushed - run health.py --json'});
+</script>
 </body>
 </html>

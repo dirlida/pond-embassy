@@ -77,3 +77,26 @@ else:
     print(f"\nlock: not found (check ps)")
 
 print("="*40)
+
+# -- export live.json --
+if __name__ == "__main__" and "--json" in __import__("sys").argv:
+    import json, pathlib
+    p = pathlib.Path(__file__).parent
+    cp = p / "chain.json"
+    try:
+        d = json.loads(cp.read_text())
+        chain = d.get("chain", [])
+        last = chain[-1] if chain else {}
+        out = {
+            "HEAD": d.get("HEAD") or last.get("head"),
+            "COUNT": d.get("COUNT") or len(chain),
+            "KERNEL": d.get("KERNEL") or last.get("kernel"),
+            "mono": last.get("mono"),
+            "time": last.get("time"),
+            "stamps": len(list((p/"stamps").glob("*"))),
+            "log_bytes": (p/"pond.log").stat().st_size if (p/"pond.log").exists() else 0
+        }
+        (p/"live.json").write_text(json.dumps(out, indent=2))
+        print("\nlive.json written")
+    except Exception as e:
+        print(f"json export fail {e}")

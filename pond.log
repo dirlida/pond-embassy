@@ -1,9 +1,0 @@
-nohup: ignoring input
-=== POND Count v2.2 atomic + tick + singleton ===
-Kernel: pond.kernel.bin fbcbad2c5324f560 32K
-Chain: chain.json HEAD 1801
-Stamps: /sdcard/POND/stamps
-Ticker OPEN 06:47:24 boot 1492838s
-[tick] 06:47:58 wd 0.6m moved 15m boot 0.6m
-[tick] 06:48:32 wd 1.1m moved 15m boot 1.1m
-[tick] 06:49:06 wd 1.7m moved 22m boot 1.7m

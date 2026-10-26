@@ -25,3 +25,16 @@ pond.log
 health.log
 keys/*.key
 keys/*.backup
+chain.json.bad
+chain.json.bak
+chain.json.broken
+chain.json.shaved-*.json
+*.bak
+nohup.out
+pond.log
+pond.out
+health.log
+pond.pid
+__pycache__/
+tmp/
+.env

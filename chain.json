@@ -1005,5 +1005,38 @@
     "stamps": [],
     "security": "IBM lived RTC+earth+sun+kernel",
     "reason": "19m stable"
+  },
+  {
+    "idx": 1927,
+    "count": 1927,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-27 14:10:43",
+      "end": "2026-10-27 14:23:54",
+      "wall_delta": 791,
+      "boot_delta": 791
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 54.03,
+      "end": 55.89,
+      "delta": 1.868
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "13m stable"
   }
 ]

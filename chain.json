@@ -32140,7 +32140,7 @@
     "version": 2,
     "ticker_window": {
       "start": "2026-10-26 12:13:07",
-      "end": "2026-10-26 12:23:24",
+      "end": "2026-10-27",
       "wall_delta": 617,
       "boot_delta": 617
     },
@@ -32166,5 +32166,3239 @@
     "stamps": [],
     "security": "IBM lived RTC+earth+sun+kernel",
     "reason": "10m stable"
+  },
+  {
+    "idx": 1828,
+    "count": 1828,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1828 COUNT="
+  },
+  {
+    "idx": 1829,
+    "count": 1829,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1829 COUNT="
+  },
+  {
+    "idx": 1830,
+    "count": 1830,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1830 COUNT="
+  },
+  {
+    "idx": 1831,
+    "count": 1831,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1831 COUNT="
+  },
+  {
+    "idx": 1832,
+    "count": 1832,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1832 COUNT="
+  },
+  {
+    "idx": 1833,
+    "count": 1833,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1833 COUNT="
+  },
+  {
+    "idx": 1834,
+    "count": 1834,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1834 COUNT="
+  },
+  {
+    "idx": 1835,
+    "count": 1835,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1835 COUNT="
+  },
+  {
+    "idx": 1836,
+    "count": 1836,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1836 COUNT="
+  },
+  {
+    "idx": 1837,
+    "count": 1837,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1837 COUNT="
+  },
+  {
+    "idx": 1838,
+    "count": 1838,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1838 COUNT="
+  },
+  {
+    "idx": 1839,
+    "count": 1839,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1839 COUNT="
+  },
+  {
+    "idx": 1840,
+    "count": 1840,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1840 COUNT="
+  },
+  {
+    "idx": 1841,
+    "count": 1841,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1841 COUNT="
+  },
+  {
+    "idx": 1842,
+    "count": 1842,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1842 COUNT="
+  },
+  {
+    "idx": 1843,
+    "count": 1843,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1843 COUNT="
+  },
+  {
+    "idx": 1844,
+    "count": 1844,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1844 COUNT="
+  },
+  {
+    "idx": 1845,
+    "count": 1845,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1845 COUNT="
+  },
+  {
+    "idx": 1846,
+    "count": 1846,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1846 COUNT="
+  },
+  {
+    "idx": 1847,
+    "count": 1847,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1847 COUNT="
+  },
+  {
+    "idx": 1848,
+    "count": 1848,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1848 COUNT="
+  },
+  {
+    "idx": 1849,
+    "count": 1849,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1849 COUNT="
+  },
+  {
+    "idx": 1850,
+    "count": 1850,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1850 COUNT=1379"
+  },
+  {
+    "idx": 1851,
+    "count": 1851,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1851 COUNT=1380"
+  },
+  {
+    "idx": 1852,
+    "count": 1852,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1852 COUNT=1381"
+  },
+  {
+    "idx": 1853,
+    "count": 1853,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from  HEAD=1853 COUNT=1382"
+  },
+  {
+    "idx": 1854,
+    "count": 1854,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1854 COUNT=1383"
+  },
+  {
+    "idx": 1855,
+    "count": 1855,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1855 COUNT=1384"
+  },
+  {
+    "idx": 1856,
+    "count": 1856,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1856 COUNT=1385"
+  },
+  {
+    "idx": 1857,
+    "count": 1857,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1857 COUNT=1386"
+  },
+  {
+    "idx": 1858,
+    "count": 1858,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1858 COUNT=1387"
+  },
+  {
+    "idx": 1859,
+    "count": 1859,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1859 COUNT=1388"
+  },
+  {
+    "idx": 1860,
+    "count": 1860,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1860 COUNT=1389"
+  },
+  {
+    "idx": 1861,
+    "count": 1861,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1861 COUNT=1390"
+  },
+  {
+    "idx": 1862,
+    "count": 1862,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1862 COUNT=1391"
+  },
+  {
+    "idx": 1863,
+    "count": 1863,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1863 COUNT=1392"
+  },
+  {
+    "idx": 1864,
+    "count": 1864,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1864 COUNT=1393"
+  },
+  {
+    "idx": 1865,
+    "count": 1865,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1865 COUNT=1394"
+  },
+  {
+    "idx": 1866,
+    "count": 1866,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1866 COUNT=1395"
+  },
+  {
+    "idx": 1867,
+    "count": 1867,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1867 COUNT=1396"
+  },
+  {
+    "idx": 1868,
+    "count": 1868,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1868 COUNT=1397"
+  },
+  {
+    "idx": 1869,
+    "count": 1869,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1869 COUNT=1398"
+  },
+  {
+    "idx": 1870,
+    "count": 1870,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1870 COUNT=1399"
+  },
+  {
+    "idx": 1871,
+    "count": 1871,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1871 COUNT=1400"
+  },
+  {
+    "idx": 1872,
+    "count": 1872,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1872 COUNT=1401"
+  },
+  {
+    "idx": 1873,
+    "count": 1873,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1873 COUNT=1402"
+  },
+  {
+    "idx": 1874,
+    "count": 1874,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1874 COUNT=1403"
+  },
+  {
+    "idx": 1875,
+    "count": 1875,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1875 COUNT=1404"
+  },
+  {
+    "idx": 1876,
+    "count": 1876,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1876 COUNT=1405"
+  },
+  {
+    "idx": 1877,
+    "count": 1877,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1877 COUNT=1406"
+  },
+  {
+    "idx": 1878,
+    "count": 1878,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1878 COUNT=1407"
+  },
+  {
+    "idx": 1879,
+    "count": 1879,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1879 COUNT=1408"
+  },
+  {
+    "idx": 1880,
+    "count": 1880,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1880 COUNT=1409"
+  },
+  {
+    "idx": 1881,
+    "count": 1881,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1881 COUNT=1410"
+  },
+  {
+    "idx": 1882,
+    "count": 1882,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1882 COUNT=1411"
+  },
+  {
+    "idx": 1883,
+    "count": 1883,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1883 COUNT=1412"
+  },
+  {
+    "idx": 1884,
+    "count": 1884,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1884 COUNT=1413"
+  },
+  {
+    "idx": 1885,
+    "count": 1885,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-26 HEAD=1885 COUNT=1414"
+  },
+  {
+    "idx": 1886,
+    "count": 1886,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1886 COUNT=1415"
+  },
+  {
+    "idx": 1887,
+    "count": 1887,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1887 COUNT=1416"
+  },
+  {
+    "idx": 1888,
+    "count": 1888,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1888 COUNT=1417"
+  },
+  {
+    "idx": 1889,
+    "count": 1889,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1889 COUNT=1418"
+  },
+  {
+    "idx": 1890,
+    "count": 1890,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1890 COUNT=1419"
+  },
+  {
+    "idx": 1891,
+    "count": 1891,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1891 COUNT=1420"
+  },
+  {
+    "idx": 1892,
+    "count": 1892,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1892 COUNT=1421"
+  },
+  {
+    "idx": 1893,
+    "count": 1893,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1893 COUNT=1422"
+  },
+  {
+    "idx": 1894,
+    "count": 1894,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1894 COUNT=1423"
+  },
+  {
+    "idx": 1895,
+    "count": 1895,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1895 COUNT=1424"
+  },
+  {
+    "idx": 1896,
+    "count": 1896,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1896 COUNT=1425"
+  },
+  {
+    "idx": 1897,
+    "count": 1897,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1897 COUNT=1426"
+  },
+  {
+    "idx": 1898,
+    "count": 1898,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1898 COUNT=1427"
+  },
+  {
+    "idx": 1899,
+    "count": 1899,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1899 COUNT=1428"
+  },
+  {
+    "idx": 1900,
+    "count": 1900,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1900 COUNT=1429"
+  },
+  {
+    "idx": 1901,
+    "count": 1901,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1901 COUNT=1430"
+  },
+  {
+    "idx": 1902,
+    "count": 1902,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1902 COUNT=1431"
+  },
+  {
+    "idx": 1903,
+    "count": 1903,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1903 COUNT=1432"
+  },
+  {
+    "idx": 1904,
+    "count": 1904,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1904 COUNT=1433"
+  },
+  {
+    "idx": 1905,
+    "count": 1905,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1905 COUNT=1434"
+  },
+  {
+    "idx": 1906,
+    "count": 1906,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1906 COUNT=1435"
+  },
+  {
+    "idx": 1907,
+    "count": 1907,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1907 COUNT=1436"
+  },
+  {
+    "idx": 1908,
+    "count": 1908,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1908 COUNT=1437"
+  },
+  {
+    "idx": 1909,
+    "count": 1909,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1909 COUNT=1438"
+  },
+  {
+    "idx": 1910,
+    "count": 1910,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1910 COUNT=1439"
+  },
+  {
+    "idx": 1911,
+    "count": 1911,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1911 COUNT=1440"
+  },
+  {
+    "idx": 1912,
+    "count": 1912,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1912 COUNT=1441"
+  },
+  {
+    "idx": 1913,
+    "count": 1913,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1913 COUNT=1442"
+  },
+  {
+    "idx": 1914,
+    "count": 1914,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1914 COUNT=1443"
+  },
+  {
+    "idx": 1915,
+    "count": 1915,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1915 COUNT=1444"
+  },
+  {
+    "idx": 1916,
+    "count": 1916,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1916 COUNT=1445"
+  },
+  {
+    "idx": 1917,
+    "count": 1917,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1917 COUNT=1446"
+  },
+  {
+    "idx": 1918,
+    "count": 1918,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1918 COUNT=1447"
+  },
+  {
+    "idx": 1919,
+    "count": 1919,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1919 COUNT=1448"
+  },
+  {
+    "idx": 1920,
+    "count": 1920,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1920 COUNT=1449"
+  },
+  {
+    "idx": 1921,
+    "count": 1921,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1921 COUNT=1450"
+  },
+  {
+    "idx": 1922,
+    "count": 1922,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1922 COUNT=1451"
+  },
+  {
+    "idx": 1923,
+    "count": 1923,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1923 COUNT=1452"
+  },
+  {
+    "idx": 1924,
+    "count": 1924,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1924 COUNT=1453"
+  },
+  {
+    "idx": 1925,
+    "count": 1925,
+    "version": 2,
+    "ticker_window": {
+      "start": "2026-10-26 12:13:07",
+      "end": "2026-10-27",
+      "wall_delta": 617,
+      "boot_delta": 617
+    },
+    "earth": {
+      "start": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "end": {
+        "lat": 30.263,
+        "lon": -9.4,
+        "acc": 9999
+      },
+      "moved_m": 0
+    },
+    "sun": {
+      "start": 43.83,
+      "end": 44.07,
+      "delta": 0.237
+    },
+    "kernel": "fbcbad2c5324f560",
+    "stamps": [],
+    "security": "IBM lived RTC+earth+sun+kernel",
+    "reason": "rebuilt from 2026-10-27 HEAD=1925 COUNT=1454"
   }
 ]

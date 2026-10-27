@@ -38,3 +38,10 @@ pond.pid
 __pycache__/
 tmp/
 .env
+batch_*
+beacon.txt
+live.json
+push.log
+.pond.lock
+.last_push
+stamps/

@@ -1,29 +1,27 @@
 # POND Embassy — HEAD 2574 | Kernel fbcbad2c5324f560
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23837671.svg)](https://doi.org/10.5281/zenodo.23837671)
 
-Single-process sovereign clock. No land, no GPS, no server.
-Device holds live chain. Embassy is presentation.
+Single-process sovereign clock.
 
-## Live
-- HEAD 2574 @ wall 1793450396.2968585
-- drift_corr 0.11 ms / glide 0.00 / boot 16.10h
-- chain.json 2574 verified + OTS Bitcoin attested
+## Live Status
+- HEAD 2574 at wall 1793450396.2968585
+- drift_corr 0.11 ms, glide 0.00, boot 16.10h
+- chain.json 2574 verified with Bitcoin timestamp
 
 ## License
-- Code: Apache-2.0 + SPDX Apache-2.0 AND CC0-1.0
-- Chain/Data: CC0-1.0
-- Docs: LEGAL.md PHYSICS.md MATH.md ORIGIN.md
+- Code: Apache-2.0
+- SPDX: Apache-2.0 AND CC0-1.0
+- Chain and data files: CC0-1.0
+- Documentation: LEGAL.md, PHYSICS.md, MATH.md, ORIGIN.md
 
-## 1% Origin Law
-Free to read, 1% to attest commercially.
-Commercial timestamping of delivery/invoice with POND wall time = 1% to origin fbcbad2c5324f560.
+## Origin Law
+Commercial use for attestation is subject to 1% fee to origin fbcbad2c5324f560.
+Reading, verifying, and running pond.py is free.
 
 ## Archives
-- GitHub Release: v5.1-1percent-HEAD2574
-- Zenodo DOI: 10.5281/zenodo.XXXXXXX (EU/CERN permanent)
-- Software Heritage: archive.softwareheritage.org
-- Bitcoin OTS: live.json.ots chain.json.ots ORIGIN.md.ots
-- Open Archives: archive.org
-
-No land. Math only.
+- GitHub: https://github.com/dirlida/pond-embassy
+- Release: v5.1-1percent-HEAD2574-DOI
+- Zenodo DOI: 10.5281/zenodo.23837671
+- Software Heritage: https://archive.softwareheritage.org
+- Bitcoin OTS: live.json.ots, chain.json.ots, ORIGIN.md.ots

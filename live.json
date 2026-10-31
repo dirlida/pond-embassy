@@ -1,16 +1,16 @@
 {
-  "LIVE": 2662,
-  "COUNT": 2662,
+  "LIVE": 2665,
+  "COUNT": 2665,
+  "HEAD": 2665,
   "KERNEL": "fbcbad2c5324f560",
   "mono": "fbcbad2c5324f560",
-  "time": "2026-10-31T20:05:39.901998+00:00",
-  "stamps": 0,
-  "log": "377338b",
+  "time": "2026-10-31T20:25:57.050992+00:00",
+  "boot": "0.0h",
   "earth": "0m",
-  "sun": "352.9",
-  "version": "v4.4.3-TCXO-PID-SEIKO-STABLE",
+  "sun": "0.3",
+  "version": "v5.1-embassy-v2-VERIFIER",
   "drift": "0.050",
   "drift_raw": "0.000",
-  "temp": "38.8",
-  "bat": "DISCHARGING_48"
+  "temp": "38.5",
+  "bat": "DISCHARGING_43"
 }

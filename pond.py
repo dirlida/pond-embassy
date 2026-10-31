@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 CHAIN_FILE="chain.json"; DRIFT_FILE="drift.json"; LIVE_FILE="live.json"; KERNEL_FILE="pond.kernel.bin"; TEMP_CSV="temp_drift.csv"; LOG_DIR="stamps"; INTERVAL=600; TEMP_CACHE_SEC=30; CSV_EVERY_SEC=300
-VERSION="v4.4.3-TCXO-PID-SEIKO-STABLE"; KERNEL_HEX="fbcbad2c5324f560"
+VERSION="v5.1-embassy-v2-VERIFIER"; KERNEL_HEX="fbcbad2c5324f560"
 
 TEMP_COEFF_MS_PER_C = 3.953
 BASE_TEMP = 39.5
@@ -38,6 +38,46 @@ def get_mono_kernel():
     except: pass
     return KERNEL_HEX
 
+def write_index(head, live, drift_avg):
+    html = f"""<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1">
+<title>POND {head}</title>
+<style>
+body{{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,monospace;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}}
+.wrap{{width:100%;max-width:520px}}.card{{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}}
+.head{{font-size:52px;font-weight:900;letter-spacing:-1.5px;color:#f5d36c;line-height:1}}
+.sub{{margin-top:8px;font-size:13px;color:#9a9aa3}}.row{{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}}
+.chip{{background:#1c1c22;border:1px solid #2b2b36;border-radius:999px;padding:8px 13px;font-size:12px;color:#b8b8c0}} .chip b{{color:#fff;font-weight:700}}
+.live{{margin-top:16px;background:#0f0f12;border:1px solid #222;border-radius:14px;padding:14px;font-size:11px;line-height:1.6;white-space:pre-wrap;color:#c8c8d0;max-height:420px;overflow:auto}}
+.ok{{color:#4ade80;font-weight:800}} .footer{{margin-top:14px;font-size:11px;color:#555;text-align:center}} a{{color:#7afcff;text-decoration:none}}
+</style></head><body>
+<div class=wrap><div class=card>
+<div class=head>HEAD {head}</div>
+<div class=sub><span class=ok>=== OK ===</span> • LIVE {head} COUNT {head} • {VERSION}</div>
+<div class=row>
+<span class=chip>Kernel <b>{get_mono_kernel()}</b></span>
+<span class=chip>Drift <b>{drift_avg:.2f} avg</b></span>
+<span class=chip>Chain <b>100 kept</b></span>
+</div>
+<div class=row>
+<span class=chip>Build <b>b18f0c4</b></span>
+<span class=chip>Wall <b>{datetime.now(timezone.utc).isoformat()}</b></span>
+<span class=chip>Boot <b>{live.get("boot","-")}</b></span>
+</div>
+<div class=live id=live>Loading chain.json...</div>
+</div>
+<div class=footer>pond-embassy • {get_mono_kernel()} • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a></div>
+</div>
+<script>
+async function load(){{try{{let [lv,ch]=await Promise.all([fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)]);let t=`HEAD {head} COUNT {head}\\nKernel {get_mono_kernel()}\\nDrift {drift_avg:.2f}\\nBuild b18f0c4\\n\\n`;if(lv) t+=JSON.stringify(lv,null,2).slice(0,1200)+"\\n\\n";if(ch) t+=ch.slice(0,1200);document.getElementById('live').textContent=t;}}catch(e){{}}
+}}
+load(); setInterval(load,5000);
+</script>
+</body></html>"""
+    with open("index.html","w") as out: out.write(html)
+    if Path("docs").exists():
+        with open("docs/index.html","w") as out: out.write(html)
+
 raw_drift=load_json(DRIFT_FILE,{})
 drift={
     "avg": raw_drift.get("avg", raw_drift.get("drift", 13.08)),
@@ -50,19 +90,15 @@ drift={
     "last_temp": raw_drift.get("last_temp",38.8),
     "samples": raw_drift.get("samples",2)
 }
-
 chain=load_json(CHAIN_FILE,[])
-boot_start_mono=time.monotonic(); boot_start_wall=time.time()
-last_csv_write=boot_start_wall-350
-last_temp=38.8; last_temp_t=0
-last_raw_update=time.time()
+boot_start_mono=time.monotonic(); boot_start_wall=time.time(); last_csv_write=boot_start_wall-350
+last_temp=38.8; last_temp_t=0; last_raw_update=time.time()
 
 def correct_drift(raw_ms, temp_c, sun_val):
     temp_err = temp_c - BASE_TEMP
-    temp_corrected = raw_ms + (temp_err * TEMP_COEFF_MS_PER_C * 0.1) # reduced coeff, 10% only for slow correction
+    temp_corrected = raw_ms + (temp_err * TEMP_COEFF_MS_PER_C * 0.1)
     sun_factor = (sun_val - 50) * 0.001
     sun_corrected = temp_corrected + sun_factor
-    # HARD CLAMP positive 0.05ms to 15ms
     corrected = max(0.05, min(15.0, sun_corrected))
     return corrected, temp_corrected
 
@@ -72,58 +108,42 @@ while True:
     try:
         now_wall=time.time(); now_mono=time.monotonic()
         boot_elapsed=now_mono-boot_start_mono; wall_elapsed=now_wall-boot_start_wall
-
         if now_wall-last_temp_t> TEMP_CACHE_SEC:
             _, _, _, t = get_bat()
             last_temp=t; last_temp_t=now_wall
         temp=last_temp
         _, status, pct, _ = get_bat()
         sun=(boot_elapsed/3600.0)*15.0%360.0; earth=0
-        
-        # FIXED: only recompute raw every INTERVAL, with EMA filter
         raw_now = drift["avg"]
         if now_wall - last_raw_update >= INTERVAL:
             if drift["last_mono"] is not None and drift["last_wall"] is not None:
                 dt_mono = now_mono - drift["last_mono"]
                 dt_wall = now_wall - drift["last_wall"]
-                if dt_wall > 300: # need 5min min for stable measure
+                if dt_wall > 300:
                     measured = (dt_mono - dt_wall)/dt_wall*1000.0
-                    # EMA filter 0.2 new 0.8 old to kill noise
                     raw_now = drift["avg"]*0.8 + measured*0.2
-                    # clamp measured raw to sane -10 to +20ms
                     raw_now = max(-10.0, min(20.0, raw_now))
             last_raw_update = now_wall
-            drift["last_mono"]=now_mono
-            drift["last_wall"]=now_wall
-        
-        # if first boot, init last markers
-        if drift["last_mono"] is None:
-            drift["last_mono"]=now_mono
-            drift["last_wall"]=now_wall
-
+        drift["last_mono"]=now_mono
+        drift["last_wall"]=now_wall
         drift_corr, temp_corr = correct_drift(raw_now, temp, sun)
-        
         error = raw_now - drift_corr
         drift["integral"] = max(-5, min(5, drift["integral"] + error*KI))
         derivative = error - drift["prev_error"]
         glide_pid = KP*error + drift["integral"] + KD*derivative
         drift["prev_error"] = error
         glide=(drift_corr/1000.0/3600.0)*boot_elapsed + glide_pid/1000.0
-
         drift["raw_last"]=raw_now
         drift["corr"]=drift_corr
-        # don't overwrite avg until next interval - keep stable
-        # drift["avg"]=raw_now
-
         if now_wall-last_csv_write>=CSV_EVERY_SEC:
             iso=datetime.now(timezone.utc).isoformat(); mono_k=get_mono_kernel()
             line=f"{int(now_wall)},{iso},{temp:.1f},{raw_now:.3f},{drift_corr:.3f},{boot_elapsed:.0f},{wall_elapsed:.0f},{glide:.6f},{sun:.2f},{earth},{status}_{pct},{mono_k}\n"
             with open(TEMP_CSV,"a") as f: f.write(line)
             drift["last_temp"]=temp
             drift["avg"]=raw_now
+            last_csv_write=now_wall
             save_json(DRIFT_FILE, drift)
             print(f"CSV {temp:.1f}C raw {raw_now:.3f} corr {drift_corr:.3f} glide {glide:.6f} pid {glide_pid:.4f}", flush=True)
-
         if len(chain)==0 or now_wall-chain[-1].get("wall_ts",0)>=INTERVAL:
             head_n=chain[-1]["head"]+1 if len(chain)>0 and "head" in chain[-1] else 2094
             try:
@@ -134,9 +154,10 @@ while True:
             chain.append(block)
             if len(chain)>100: chain=chain[-100:]
             save_json(CHAIN_FILE, chain)
-            live={"LIVE":head_n,"COUNT":head_n,"KERNEL":get_mono_kernel(),"mono":get_mono_kernel(),"time":block["iso"],"stamps":0,"log":f"{os.path.getsize('pond.log') if os.path.exists('pond.log') else 0}b","earth":f"{earth}m","sun":f"{sun:.1f}","version":VERSION,"drift":f"{drift_corr:.3f}","drift_raw":f"{raw_now:.3f}","temp":f"{temp:.1f}","bat":f"{status}_{pct}"}
+            live={"LIVE":head_n,"COUNT":head_n,"HEAD":head_n,"KERNEL":get_mono_kernel(),"mono":get_mono_kernel(),"time":block["iso"],"boot":f"{boot_elapsed/3600:.1f}h","earth":f"{earth}m","sun":f"{sun:.1f}","version":VERSION,"drift":f"{drift_corr:.3f}","drift_raw":f"{raw_now:.3f}","temp":f"{temp:.1f}","bat":f"{status}_{pct}"}
             save_json(LIVE_FILE, live)
-            print(f"CLOSED HEAD {head_n} raw {raw_now:.3f} corr {drift_corr:.3f} temp {temp:.1f}C", flush=True)
+            write_index(head_n, live, drift_corr)
+            print(f"CLOSED HEAD {head_n} raw {raw_now:.3f} corr {drift_corr:.3f} temp {temp:.1f}C - index rebuilt", flush=True)
         time.sleep(10)
     except Exception as e:
         print(f"ERR {e}", file=sys.stderr, flush=True); import traceback; traceback.print_exc(); time.sleep(5)

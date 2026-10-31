@@ -1,24 +1,5 @@
 [
   {
-    "head": 2505,
-    "wall_ts": 1793429724.1186671,
-    "iso": "2026-10-31T06:55:26.484831+00:00",
-    "boot_elapsed": 37293.39338929881,
-    "wall": 37293.39335846901,
-    "drift_raw": 1.9126964659944928e-05,
-    "drift": 0.05,
-    "drift_corr": 0.05,
-    "temp": 30.7,
-    "glide": 0.004908547674874074,
-    "glide_pid": 4.39058387780048,
-    "sun": 155.3891391220784,
-    "earth": 0,
-    "kernel": "fbcbad2c5324f560",
-    "mono": "fbcbad2c5324f560",
-    "version": "v4.4.3-TCXO-PID-SEIKO-STABLE",
-    "bat": "DISCHARGING_99"
-  },
-  {
     "head": 2507,
     "wall_ts": 1793430329.648508,
     "iso": "2026-10-31T07:05:34.384918+00:00",
@@ -1898,5 +1879,24 @@
     "mono": "fbcbad2c5324f560",
     "version": "v5.1-embassy-v2-VERIFIER",
     "bat": "CHARGING_19"
+  },
+  {
+    "head": 2685,
+    "wall_ts": 1793490455.3435926,
+    "iso": "2026-10-31T23:47:37.741015+00:00",
+    "boot_elapsed": 11607.62644684501,
+    "wall": 11607.62642288208,
+    "drift_raw": 0.05,
+    "drift": 1.2342651101951876,
+    "drift_corr": 1.2342651101951876,
+    "temp": 42.5,
+    "glide": 0.0036392507697954393,
+    "glide_pid": -0.340440434515597,
+    "sun": 48.36511019518754,
+    "earth": 0,
+    "kernel": "fbcbad2c5324f560",
+    "mono": "fbcbad2c5324f560",
+    "version": "v5.1-embassy-v2-VERIFIER",
+    "bat": "CHARGING_22"
   }
 ]

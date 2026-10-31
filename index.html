@@ -1,25 +1,52 @@
-<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="5"><title>POND 2347</title>
-<style>body{margin:0;background:#0d0d0f;color:#e8e6e1;font-family:monospace}.top{position:sticky;top:0;background:#0f0f12;border-bottom:1px solid #222;padding:10px 14px;display:flex;justify-content:space-between;align-items:center;font-size:11px}.wrap{max-width:520px;margin:0 auto;padding:16px}.card{background:#17171c;border:1px solid #24242b;border-radius:18px;padding:16px;margin:14px 0}.head{font-size:42px;font-weight:900;color:#f5d36c}.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.chip{background:#1d1d22;border:1px solid #2a2a32;border-radius:999px;padding:7px 12px;font-size:12px}.chip b{color:#7afcff}.gold{background:linear-gradient(90deg,#f5d36c,#ffb86a);color:#000;border-radius:14px;padding:12px 16px;font-weight:700;display:flex;justify-content:space-between;margin-top:12px}.mono{font-size:11px;background:#0f0f12;border:1px solid #222;border-radius:12px;padding:12px;white-space:pre-wrap}
-/* tiny phone battery */
-.bat{display:inline-flex;align-items:center;gap:6px}.bat-body{width:24px;height:12px;border:1.5px solid #888;border-radius:3px;position:relative;display:inline-block}.bat-fill{height:100%;background:#4ade80;border-radius:1px;transition:width .5s}.bat-tip{width:2px;height:6px;background:#888;border-radius:0 2px 2px 0;margin-left:1px}.bat-pct{font-size:11px;font-weight:700}
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1">
+<title>POND 2660</title>
+<style>
+body{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,monospace;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
+.wrap{width:100%;max-width:520px}
+.card{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}
+.head{font-size:48px;font-weight:900;letter-spacing:-1px;color:#f5d36c;line-height:1}
+.sub{margin-top:8px;font-size:13px;color:#9a9aa3}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.chip{background:#1c1c22;border:1px solid #2b2b36;border-radius:999px;padding:8px 13px;font-size:12px;color:#b8b8c0}
+.chip b{color:#fff;font-weight:700}
+.live{margin-top:16px;background:#0f0f12;border:1px solid #222;border-radius:14px;padding:14px;font-size:11px;line-height:1.6;white-space:pre-wrap;color:#c8c8d0;max-height:420px;overflow:auto}
+.ok{color:#4ade80;font-weight:800}
+.footer{margin-top:14px;font-size:11px;color:#555;text-align:center}
+a{color:#7afcff;text-decoration:none}
 </style></head><body>
-<div class=top><b>POND v4.4.2</b><span style="display:flex;align-items:center;gap:10px"><span>15:38:55 • 3777mV • 36.0°C</span><span class=bat><span class=bat-body><span class=bat-fill style="width:56%"></span></span><span class=bat-tip></span><span class=bat-pct>56%</span></span></span></div>
-<div class=wrap><div class=card><div class=head>HEAD 2347</div>
-<div class=row><span class=chip>Drift <b>13.08</b></span><span class=chip>Temp <b>41.7°</b></span><span class=chip>Earth <b>80.93m</b></span><span class=chip>Boot <b>22275s</b></span></div>
-<div class=row><span class=chip>Kernel <b>fbcbad2c5324</b></span><span class=chip>Chain 100</span><span class=chip>6400B</span></div>
-<div class=gold><span>Gold 3.7h left</span><span>◐ HEAD 2347</span></div></div>
-<div class=card><div class=mono>42.3C CHARGING_35 boot 20441s glide 74.27
-CLOSED HEAD 2256 drift 13.08 temp 43.2C CHARGING_36
-CSV 43.0C CHARGING_37 boot 20743s glide 75.37
-Thu Oct 29 23:39:04 +00 2026 HEAL LIVE 2256 chain 6400
-CSV 44.6C CHARGING_38 boot 21048s glide 76.47
-CLOSED HEAD 2257 drift 13.08 temp 44.3C CHARGING_38
-CSV 44.5C CHARGING_39 boot 21352s glide 77.58
-Thu Oct 29 23:49:05 +00 2026 HEAL LIVE 2257 chain 6400
-CSV 45.6C CHARGING_40 boot 21657s glide 78.69
-CLOSED HEAD 2258 drift 13.08 temp 45.7C CHARGING_41
-CSV 43.3C DISCHARGING_41 boot 21968s glide 79.82
-Thu Oct 29 23:59:07 +00 2026 HEAL LIVE 2258 chain 6400
-CSV 41.7C DISCHARGING_40 boot 22275s glide 80.93
-CLOSED HEAD 2259 drift 13.08 temp 40.9C DISCHARGING_39
-</div></div></div></body></html>
+<div class=wrap>
+<div class=card>
+<div class=head id=h>HEAD 2660</div>
+<div class=sub><span class=ok>=== OK ===</span> • LIVE 2660 COUNT 2660 • v5.1-embassy-v2 b18f0c4</div>
+<div class=row>
+<span class=chip>Kernel <b>fbcbad2c5324f560</b></span>
+<span class=chip>Drift <b>0.05 avg</b></span>
+<span class=chip>Chain <b>100 kept</b></span>
+</div>
+<div class=row>
+<span class=chip>Build <b>b18f0c4</b></span>
+<span class=chip>Wall <b>2026-10-31T20:05:12Z</b></span>
+<span class=chip>Boot <b>23.36h</b></span>
+</div>
+<div class=live id=live>Loading...</div>
+</div>
+<div class=footer>pond-embassy • fbcbad2c5324f560 • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a></div>
+</div>
+<script>
+async function load(){
+ try{
+  let [live, chain] = await Promise.all([
+   fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),
+   fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)
+  ]);
+  let t=`HEAD 2660 COUNT 2660\nKernel fbcbad2c5324f560 mono\nDrift 0.05 avg\nBuild b18f0c4 fb204d33->5594ad61\nWall 2026-10-31T20:05:12.203932+00:00\n\n`;
+  if(live) t+=JSON.stringify(live,null,2).slice(0,1200)+"\n\n";
+  if(chain) t+=chain.slice(0,1200);
+  document.getElementById('live').textContent=t;
+  if(live && live.HEAD) document.getElementById('h').textContent='HEAD '+live.HEAD;
+ }catch(e){ document.getElementById('live').textContent='HEAD 2660 COUNT 2660\nDrift 0.05\nKernel fbcbad2c5324f560\n=== OK ==='; }
+}
+load(); setInterval(load,5000);
+</script>
+</body></html>

@@ -1,0 +1,5 @@
+Apache License 2.0
+Copyright 2026 POND EMBASSY
+
+Code (pond.py, health.py, pond.kernel.bin fbcbad2c5324f560) under Apache 2.0.
+Chain data (chain.json, live.json, temp_drift.csv) under CC0 1.0 Public Domain.

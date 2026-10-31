@@ -2,3 +2,14 @@
 !.gitignore
 !.nojekyll
 !index.html
+!LICENSE
+!LEGAL.md
+!PHYSICS.md
+!MATH.md
+!README.md
+!pond.py
+!health.py
+!live.json
+!chain.json
+!drift.json
+!pond.kernel.bin

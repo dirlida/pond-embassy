@@ -1,11 +1,11 @@
-# POND Embassy — HEAD 2796 | Kernel 6ee6af28f5ce8136
+# POND Embassy — HEAD 2796 | 128K 717d0a36 | Kernel 6ee6af28f5ce8136
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23837671.svg)](https://doi.org/10.5281/zenodo.23837671)
 
 Single-process sovereign clock.
 
 ## Live Status
-- HEAD 2796 at wall 1793450396.2968585
+- HEAD 2796 | 128K 717d0a36 at wall 1793450396.2968585
 - drift_corr 0.11 ms, glide 0.00, boot 16.10h
 - chain.json 2574 verified with Bitcoin timestamp
 

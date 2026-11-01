@@ -1,39 +1,25 @@
-.code16
+# 1 "boot_gas.S"
+# 1 "<built-in>" 1
+# 1 "<built-in>" 3
+# 426 "<built-in>" 3
+# 1 "<command line>" 1
+# 1 "<built-in>" 2
+# 1 "boot_gas.S" 2
+.code32
+.section .text
 .global _start
 _start:
   cli
-  ljmp $0, $1f
-1:  xor %ax, %ax
-  mov %ax, %ds
-  mov %ax, %ss
-  mov $0x7c00, %sp
-  call enable_a20
-  lgdt gdt_desc
-  mov %cr0, %eax
-  or $1, %eax
-  mov %eax, %cr0
-  ljmp $0x08, $protected
-.code32
-protected:
-  mov $0x10, %ax
-  mov %ax, %ds
-  mov %ax, %es
-  mov %ax, %ss
-  mov $0x7c00, %esp
+  cld
+  xor %eax,%eax
+  mov %eax,%ds
+  mov %eax,%es
+  mov %eax,%ss
+  mov $0x00180000,%esp
   call kernel_main
-.hlt:
+1:
   hlt
-  jmp .hlt
-enable_a20:
-  in $0x92, %al
-  or $2, %al
-  out %al, $0x92
-  ret
-.align 4
-gdt:
-  .quad 0
-  .quad 0x00cf9a000000ffff
-  .quad 0x00cf92000000ffff
-gdt_desc:
-  .word gdt_desc - gdt - 1
-  .long gdt
+  jmp 1b
+.global kernel_main_c
+kernel_main_c:
+  jmp kernel_main

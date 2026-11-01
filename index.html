@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1">
-<title>POND 2738</title>
+<title>POND 2795</title>
 <style>
 body{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,monospace;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
 .wrap{width:100%;max-width:520px}.card{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}
@@ -11,24 +11,24 @@ body{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,mo
 .ok{color:#4ade80;font-weight:800} .footer{margin-top:14px;font-size:11px;color:#555;text-align:center} a{color:#7afcff;text-decoration:none}
 </style></head><body>
 <div class=wrap><div class=card>
-<div class=head>HEAD 2738</div>
-<div class=sub><span class=ok>=== OK ===</span> • LIVE 2738 COUNT 2738 • v5.1-embassy-v2-VERIFIER</div>
+<div class=head>HEAD 2795</div>
+<div class=sub><span class=ok>=== OK ===</span> • LIVE 2795 COUNT 2795 • v5.1-embassy-v2-VERIFIER</div>
 <div class=row>
-<span class=chip>Kernel <b>fbcbad2c5324f560</b></span>
+<span class=chip>Kernel <b>e30cf97f776dab62</b></span>
 <span class=chip>Drift <b>0.05 avg</b></span>
 <span class=chip>Chain <b>100 kept</b></span>
 </div>
 <div class=row>
 <span class=chip>Build <b>b18f0c4</b></span>
-<span class=chip>Wall <b>2026-11-01T08:24:21.931263+00:00</b></span>
-<span class=chip>Boot <b>11.8h</b></span>
+<span class=chip>Wall <b>2026-11-01T18:01:18.475973+00:00</b></span>
+<span class=chip>Boot <b>0.1h</b></span>
 </div>
 <div class=live id=live>Loading chain.json...</div>
 </div>
-<div class=footer>pond-embassy • fbcbad2c5324f560 • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a></div>
+<div class=footer>pond-embassy • e30cf97f776dab62 • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a></div>
 </div>
 <script>
-async function load(){try{let [lv,ch]=await Promise.all([fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)]);let t=`HEAD 2738 COUNT 2738\nKernel fbcbad2c5324f560\nDrift 0.05\nBuild b18f0c4\n\n`;if(lv) t+=JSON.stringify(lv,null,2).slice(0,1200)+"\n\n";if(ch) t+=ch.slice(0,1200);document.getElementById('live').textContent=t;}catch(e){}
+async function load(){try{let [lv,ch]=await Promise.all([fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)]);let t=`HEAD 2795 COUNT 2795\nKernel e30cf97f776dab62\nDrift 0.05\nBuild b18f0c4\n\n`;if(lv) t+=JSON.stringify(lv,null,2).slice(0,1200)+"\n\n";if(ch) t+=ch.slice(0,1200);document.getElementById('live').textContent=t;}catch(e){}
 }
 load(); setInterval(load,5000);
 </script>

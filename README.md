@@ -1,11 +1,11 @@
-# POND Embassy — HEAD 2574 | Kernel fbcbad2c5324f560
+# POND Embassy — HEAD 2795 | Kernel 6ee6af28f5ce8136
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23837671.svg)](https://doi.org/10.5281/zenodo.23837671)
 
 Single-process sovereign clock.
 
 ## Live Status
-- HEAD 2574 at wall 1793450396.2968585
+- HEAD 2795 at wall 1793450396.2968585
 - drift_corr 0.11 ms, glide 0.00, boot 16.10h
 - chain.json 2574 verified with Bitcoin timestamp
 
@@ -16,7 +16,7 @@ Single-process sovereign clock.
 - Documentation: LEGAL.md, PHYSICS.md, MATH.md, ORIGIN.md
 
 ## Origin Law
-Commercial use for attestation is subject to 1% fee to origin fbcbad2c5324f560.
+Commercial use for attestation is subject to 1% fee to origin 6ee6af28f5ce8136.
 Reading, verifying, and running pond.py is free.
 
 ## Archives

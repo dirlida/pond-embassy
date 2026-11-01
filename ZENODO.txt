@@ -1,0 +1,9 @@
+DOI: 10.5281/zenodo.23865745
+Concept DOI: 10.5281/zenodo.23865744
+URL: https://zenodo.org/records/23865745
+Badge: https://zenodo.org/badge/doi/10.5281%2Fzenodo.23865745.svg
+
+Kernel: a4c1a2285f33c07a HEAD 2806 LIVE 2806
+Size: 8044B / 7572B stable
+Attest: POND0028064a6b99691b2e83ce sha256_chain 4a6b99691b2e83ce
+NVM: 0x7E00 PONDVRNU magic offset 7984 counter

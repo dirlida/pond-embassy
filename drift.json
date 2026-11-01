@@ -2,10 +2,10 @@
   "avg": 0.05,
   "corr": 0.05,
   "raw_last": 0.05,
-  "integral": -1.8588767149888976,
+  "integral": -1.8613878292942705,
   "prev_error": 0.0,
-  "last_mono": 2020761.596133137,
-  "last_wall": 1793525164.5377073,
-  "last_temp": 36.6,
+  "last_mono": 2021068.368296463,
+  "last_wall": 1793525471.3098714,
+  "last_temp": 38.3,
   "samples": 100
 }

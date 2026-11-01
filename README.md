@@ -1,11 +1,11 @@
-# POND Embassy — HEAD 2797 | 128K 717d0a36 | Kernel 6ee6af28f5ce8136
+# POND Embassy — HEAD 2798 | 8K c6f411a8 | 128K 2bea8606 | Kernel c6f411a88f8a479d
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23837671.svg)](https://doi.org/10.5281/zenodo.23837671)
 
 Single-process sovereign clock.
 
 ## Live Status
-- HEAD 2797 | 128K 717d0a36 | Kernel 6ee6af28f5ce8136
+- HEAD 2798 | 8K c6f411a8 | 128K 2bea8606 | Kernel c6f411a88f8a479d
 - drift_corr 0.11 ms, glide 0.00, boot 16.10h
 - chain.json 2574 verified with Bitcoin timestamp
 

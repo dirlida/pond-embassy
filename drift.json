@@ -1,11 +1,11 @@
 {
   "avg": 0.05,
-  "corr": 0.8247939526264003,
+  "corr": 0.05,
   "raw_last": 0.05,
   "integral": -5,
-  "prev_error": -0.7747939526264003,
-  "last_mono": 2060095.718859097,
-  "last_wall": 1793564498.6604323,
-  "last_temp": 41.5,
+  "prev_error": 0.0,
+  "last_mono": 2060705.602019441,
+  "last_wall": 1793565108.5435953,
+  "last_temp": 38.8,
   "samples": 100
 }

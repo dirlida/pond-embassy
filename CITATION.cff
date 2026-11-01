@@ -1,17 +1,21 @@
 cff-version: 1.2.0
-title: POND Embassy Kernel v12 Final Fully Fledged - 8044B NVM Counter
+title: "POND Embassy v12 Final: 8044B NVM Kernel"
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-    - name: dirlida
-identifiers:
-    - type: doi
-    value: 10.5281/zenodo.23865745
-    description: Zenodo record
-version: v12.0.0
+    - given-names: Anas
+    family-names: Lidiri
+    affiliation: POND Embassy
 doi: 10.5281/zenodo.23865745
-date-released: 2026-11-01
-license: MIT
-keywords: [kernel, embassy, POND, NVM, 8044B]
-repository-code: https://zenodo.org/records/23865745
-abstract: "Smallest kernel that uplifts Unix. HEAD 2806 LIVE 2806 Kernel a4c1a2285f33c07a 8044B NVM 0x7E00 PONDVRNU attestation."
+license: Apache-2.0
+date-released: 2026-04-30
+version: "v12-final-8044B-a4c1a228"
+repository-code: https://github.com/dirlida/pond-embassy
+repository-artifact: https://doi.org/10.5281/zenodo.23865745
+keywords:
+    - nvm-kernel
+    - monotonic-counter
+    - temporal-attestation
+    - bare-metal
+    - 0x7E00
+abstract: "8044-byte standalone kernel implementing a persistent monotonic counter at physical address 0x7E00. Maintains temporal continuity across host reboots and provides externally verifiable timestamps via Bitcoin OTS anchoring. Independent timing domain, read-only attestation interface."

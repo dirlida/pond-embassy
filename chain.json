@@ -1,24 +1,5 @@
 [
   {
-    "head": 2685,
-    "wall_ts": 1793490455.3435926,
-    "iso": "2026-10-31T23:47:37.741015+00:00",
-    "boot_elapsed": 11607.62644684501,
-    "wall": 11607.62642288208,
-    "drift_raw": 0.05,
-    "drift": 1.2342651101951876,
-    "drift_corr": 1.2342651101951876,
-    "temp": 42.5,
-    "glide": 0.0036392507697954393,
-    "glide_pid": -0.340440434515597,
-    "sun": 48.36511019518754,
-    "earth": 0,
-    "kernel": "fbcbad2c5324f560",
-    "mono": "fbcbad2c5324f560",
-    "version": "v5.1-embassy-v2-VERIFIER",
-    "bat": "CHARGING_22"
-  },
-  {
     "head": 2686,
     "wall_ts": 1793491060.571827,
     "iso": "2026-10-31T23:57:45.308832+00:00",
@@ -1898,5 +1879,24 @@
     "mono": "fbcbad2c5324f560",
     "version": "v5.1-embassy-v2-VERIFIER",
     "bat": "CHARGING_81"
+  },
+  {
+    "head": 2787,
+    "wall_ts": 1793551212.817553,
+    "iso": "2026-11-01T16:40:14.818003+00:00",
+    "boot_elapsed": 72365.1004086209,
+    "wall": 72365.10038328171,
+    "drift_raw": 0.05,
+    "drift": 0.8549412517025865,
+    "drift_corr": 0.8549412517025865,
+    "temp": 40.9,
+    "glide": 0.01208893642828682,
+    "glide_pid": -5.096593994749208,
+    "sun": 301.52125170258705,
+    "earth": 0,
+    "kernel": "00acc019a757aae6",
+    "mono": "00acc019a757aae6",
+    "version": "v5.1-embassy-v2-VERIFIER",
+    "bat": "CHARGING_82"
   }
 ]

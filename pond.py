@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 CHAIN_FILE="chain.json"; DRIFT_FILE="drift.json"; LIVE_FILE="live.json"; KERNEL_FILE="pond.kernel.bin"; TEMP_CSV="temp_drift.csv"; LOG_DIR="stamps"; INTERVAL=600; TEMP_CACHE_SEC=30; CSV_EVERY_SEC=300
-VERSION="v5.1-embassy-v2-VERIFIER"; KERNEL_HEX="fbcbad2c5324f560"
+VERSION="v5.1-embassy-v2-VERIFIER"; KERNEL_HEX="00acc019a757aae6"
 
 TEMP_COEFF_MS_PER_C = 3.953
 BASE_TEMP = 39.5

@@ -1,16 +1,16 @@
 {
-  "LIVE": 2786,
-  "COUNT": 2786,
-  "HEAD": 2786,
-  "KERNEL": "fbcbad2c5324f560",
-  "mono": "fbcbad2c5324f560",
-  "time": "2026-11-01T16:30:07.267850+00:00",
-  "boot": "19.9h",
+  "LIVE": 2787,
+  "COUNT": 2787,
+  "HEAD": 2787,
+  "KERNEL": "00acc019a757aae6",
+  "mono": "00acc019a757aae6",
+  "time": "2026-11-01T16:40:14.818003+00:00",
+  "boot": "20.1h",
   "earth": "0m",
-  "sun": "299.0",
+  "sun": "301.5",
   "version": "v5.1-embassy-v2-VERIFIER",
-  "drift": "1.129",
+  "drift": "0.855",
   "drift_raw": "0.050",
-  "temp": "41.6",
-  "bat": "CHARGING_81"
+  "temp": "40.9",
+  "bat": "CHARGING_82"
 }

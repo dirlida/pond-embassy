@@ -1,16 +1,16 @@
 {
-  "LIVE": 2789,
-  "COUNT": 2789,
-  "HEAD": 2789,
+  "LIVE": 2790,
+  "COUNT": 2790,
+  "HEAD": 2790,
   "KERNEL": "b8e6709e979518ba",
   "mono": "b8e6709e979518ba",
-  "time": "2026-11-01T17:00:26.856310+00:00",
-  "boot": "0.1h",
+  "time": "2026-11-01T17:10:39.560698+00:00",
+  "boot": "0.3h",
   "earth": "0m",
-  "sun": "2.1",
+  "sun": "4.6",
   "version": "v5.1-embassy-v2-VERIFIER",
-  "drift": "0.081",
+  "drift": "0.202",
   "drift_raw": "0.050",
-  "temp": "39.7",
-  "bat": "CHARGING_80"
+  "temp": "40.0",
+  "bat": "CHARGING_85"
 }

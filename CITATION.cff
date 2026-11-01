@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: POND Embassy Kernel v12 Final Fully Fledged
+message: If you use this kernel, please cite it as below.
+type: software
+authors:
+    - family-names: dirlida
+    given-names: pond
+    alias: dirlida
+version: v12.0.0
+date-released: 2026-11-01
+identifiers:
+    - type: url
+    value: https://github.com/dirlida/pond-embassy
+    - type: other
+    value: a4c1a2285f33c07a679989f4ce5a4346a1ba64814bc05854a1577ca6a3672005
+    description: sha256 of pond-256k-v12-final-a4c1a228.bin 8044B
+keywords:
+    - kernel
+    - 8K
+    - embassy
+    - monotonic-counter
+    - NVM
+    - attestation
+    - BTC-OP_RETURN
+license: MIT
+abstract: Smallest kernel that uplifts Unix. Monotonic HEAD counter owned by kernel at offset 7984 + NVM 0x7E00 PONDVRNU magic, chain hash anti-replay, 8044B deterministic build.

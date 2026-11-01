@@ -1,24 +1,18 @@
 <!DOCTYPE html>
 <html><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1">
-<title>POND 2660</title>
+<title>POND 2738</title>
 <style>
 body{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,monospace;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
-.wrap{width:100%;max-width:520px}
-.card{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}
-.head{font-size:48px;font-weight:900;letter-spacing:-1px;color:#f5d36c;line-height:1}
-.sub{margin-top:8px;font-size:13px;color:#9a9aa3}
-.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
-.chip{background:#1c1c22;border:1px solid #2b2b36;border-radius:999px;padding:8px 13px;font-size:12px;color:#b8b8c0}
-.chip b{color:#fff;font-weight:700}
+.wrap{width:100%;max-width:520px}.card{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}
+.head{font-size:52px;font-weight:900;letter-spacing:-1.5px;color:#f5d36c;line-height:1}
+.sub{margin-top:8px;font-size:13px;color:#9a9aa3}.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.chip{background:#1c1c22;border:1px solid #2b2b36;border-radius:999px;padding:8px 13px;font-size:12px;color:#b8b8c0} .chip b{color:#fff;font-weight:700}
 .live{margin-top:16px;background:#0f0f12;border:1px solid #222;border-radius:14px;padding:14px;font-size:11px;line-height:1.6;white-space:pre-wrap;color:#c8c8d0;max-height:420px;overflow:auto}
-.ok{color:#4ade80;font-weight:800}
-.footer{margin-top:14px;font-size:11px;color:#555;text-align:center}
-a{color:#7afcff;text-decoration:none}
+.ok{color:#4ade80;font-weight:800} .footer{margin-top:14px;font-size:11px;color:#555;text-align:center} a{color:#7afcff;text-decoration:none}
 </style></head><body>
-<div class=wrap>
-<div class=card>
-<div class=head id=h>HEAD 2660</div>
-<div class=sub><span class=ok>=== OK ===</span> • LIVE 2660 COUNT 2660 • v5.1-embassy-v2 b18f0c4</div>
+<div class=wrap><div class=card>
+<div class=head>HEAD 2738</div>
+<div class=sub><span class=ok>=== OK ===</span> • LIVE 2738 COUNT 2738 • v5.1-embassy-v2-VERIFIER</div>
 <div class=row>
 <span class=chip>Kernel <b>fbcbad2c5324f560</b></span>
 <span class=chip>Drift <b>0.05 avg</b></span>
@@ -26,26 +20,15 @@ a{color:#7afcff;text-decoration:none}
 </div>
 <div class=row>
 <span class=chip>Build <b>b18f0c4</b></span>
-<span class=chip>Wall <b>2026-10-31T20:05:12Z</b></span>
-<span class=chip>Boot <b>23.36h</b></span>
+<span class=chip>Wall <b>2026-11-01T08:24:21.931263+00:00</b></span>
+<span class=chip>Boot <b>11.8h</b></span>
 </div>
-<div class=live id=live>Loading...</div>
+<div class=live id=live>Loading chain.json...</div>
 </div>
 <div class=footer>pond-embassy • fbcbad2c5324f560 • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a></div>
 </div>
 <script>
-async function load(){
- try{
-  let [live, chain] = await Promise.all([
-   fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),
-   fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)
-  ]);
-  let t=`HEAD 2660 COUNT 2660\nKernel fbcbad2c5324f560 mono\nDrift 0.05 avg\nBuild b18f0c4 fb204d33->5594ad61\nWall 2026-10-31T20:05:12.203932+00:00\n\n`;
-  if(live) t+=JSON.stringify(live,null,2).slice(0,1200)+"\n\n";
-  if(chain) t+=chain.slice(0,1200);
-  document.getElementById('live').textContent=t;
-  if(live && live.HEAD) document.getElementById('h').textContent='HEAD '+live.HEAD;
- }catch(e){ document.getElementById('live').textContent='HEAD 2660 COUNT 2660\nDrift 0.05\nKernel fbcbad2c5324f560\n=== OK ==='; }
+async function load(){try{let [lv,ch]=await Promise.all([fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)]);let t=`HEAD 2738 COUNT 2738\nKernel fbcbad2c5324f560\nDrift 0.05\nBuild b18f0c4\n\n`;if(lv) t+=JSON.stringify(lv,null,2).slice(0,1200)+"\n\n";if(ch) t+=ch.slice(0,1200);document.getElementById('live').textContent=t;}catch(e){}
 }
 load(); setInterval(load,5000);
 </script>

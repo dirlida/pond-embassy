@@ -1881,25 +1881,22 @@
     "bat": "DISCHARGING_80"
   },
   {
-    "head": 2804,
-    "wall_ts": 1793558789.8266807,
-    "iso": "2026-11-01T18:46:29.826696+00:00",
-    "boot_elapsed": 0,
-    "wall": 0,
+    "head": 2805,
+    "wall_ts": 1793559093.0010986,
+    "iso": "2026-11-01T18:51:37.663384+00:00",
+    "boot_elapsed": 2800.8893036290538,
+    "wall": 2800.889266729355,
     "drift_raw": 0.05,
     "drift": 0.05,
     "drift_corr": 0.05,
-    "temp": 29.1,
-    "glide": 0,
-    "glide_pid": 0,
-    "sun": 9.2,
+    "temp": 28.5,
+    "glide": -0.004961098759671819,
+    "glide_pid": -5.0,
+    "sun": 11.67037209845439,
     "earth": 0,
     "kernel": "5523b6815870e3fc",
     "mono": "5523b6815870e3fc",
-    "full_kernel_hash": "5523b6815870e3fcb209ca71dca743e28c911cd635e954c6e67247e38433619e",
-    "version": "v11.1-stable-5523b6815870e3fc-offset7520",
-    "bat": "DISCHARGING_80",
-    "kernel_counter_offset": 7520,
-    "kernel_last_head": 2802
+    "version": "v5.1-embassy-v2-VERIFIER",
+    "bat": "DISCHARGING_77"
   }
 ]

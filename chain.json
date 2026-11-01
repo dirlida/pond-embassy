@@ -1881,22 +1881,22 @@
     "bat": "DISCHARGING_87"
   },
   {
-    "head": 2798,
-    "wall_ts": 1793556948.1431994,
-    "iso": "2026-11-01T18:15:48.143217+00:00",
-    "boot_elapsed": 0,
-    "wall": 0,
+    "head": 2799,
+    "wall_ts": 1793557278.5272992,
+    "iso": "2026-11-01T18:21:23.126867+00:00",
+    "boot_elapsed": 986.4154889821075,
+    "wall": 986.4154672622681,
     "drift_raw": 0.05,
     "drift": 0.05,
     "drift_corr": 0.05,
-    "temp": 29.3,
-    "glide": 0,
-    "glide_pid": 0,
-    "sun": 1.6,
+    "temp": 28.3,
+    "glide": -0.004986299784875249,
+    "glide_pid": -5.0,
+    "sun": 4.1100645374254485,
     "earth": 0,
     "kernel": "c6f411a88f8a479d",
     "mono": "c6f411a88f8a479d",
     "version": "v5.1-embassy-v2-VERIFIER",
-    "bat": "DISCHARGING_87"
+    "bat": "DISCHARGING_84"
   }
 ]

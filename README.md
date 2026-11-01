@@ -1,27 +1,24 @@
-# POND Embassy — HEAD 2798 | 8K c6f411a8 | 128K 2bea8606 | Kernel c6f411a88f8a479d
+# POND Embassy v12 Final — 8044B NVM Kernel
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23837671.svg)](https://doi.org/10.5281/zenodo.23837671)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23865745.svg)](https://doi.org/10.5281/zenodo.23865745)
 
-Single-process sovereign clock.
+**Artifact:** 8044-byte standalone kernel implementing a persistent monotonic counter at physical address 0x7E00.
 
-## Live Status
-- HEAD 2798 | 8K c6f411a8 | 128K 2bea8606 | Kernel c6f411a88f8a479d
-- drift_corr 0.11 ms, glide 0.00, boot 16.10h
-- chain.json 2574 verified with Bitcoin timestamp
+**Property:** Maintains temporal continuity across host reboots. Provides externally verifiable timestamps via Bitcoin OTS anchoring.
 
-## License
-- Code: Apache-2.0
-- SPDX: Apache-2.0 AND CC0-1.0
-- Chain and data files: CC0-1.0
-- Documentation: LEGAL.md, PHYSICS.md, MATH.md, ORIGIN.md
+**Interface:** Independent timing domain; exports read-only attestation to supervising kernels without requiring host kernel modification.
 
-## Origin Law
-Commercial use for attestation is subject to 1% fee to origin 6ee6af28f5ce8136.
-Reading, verifying, and running pond.py is free.
+## Specification
 
-## Archives
-- GitHub: https://github.com/dirlida/pond-embassy
-- Release: v5.1-1percent-HEAD2574-DOI
-- Zenodo DOI: 10.5281/zenodo.23837671
-- Software Heritage: https://archive.softwareheritage.org
-- Bitcoin OTS: live.json.ots, chain.json.ots, ORIGIN.md.ots
+- Size: 8044 B (a4c1a228)
+- Resident: 0x7E00
+- Persistence: NVM monotonic counter
+- Verification: SHA256, OTS, Zenodo
+- DOI: 10.5281/zenodo.23865745
+- License: Apache-2.0 (code) AND CC0-1.0 (data)
+
+## Verification
+
+```sh
+sha256sum pond-kernel-32kb/pond.img
+cat ZENODO.txt

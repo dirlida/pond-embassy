@@ -1,5 +1,23 @@
 Apache License 2.0
-Copyright 2026 POND EMBASSY
+Copyright 2026 POND Embassy — Anas
 
-Code (pond.py, health.py, pond.kernel.bin fbcbad2c5324f560) under Apache 2.0.
-Chain data (chain.json, live.json, temp_drift.csv) under CC0 1.0 Public Domain.
+SPDX: Apache-2.0 AND CC0-1.0
+
+1. Code (C source):
+   pond-kernel-32kb/pond.c, pond.h, pond.img (a4c1a228...), build scripts
+   Licensed under Apache-2.0
+
+2. Data & Chain (archival):
+   legacy/chain.json, legacy/live.json, legacy/temp_drift.csv, legacy/drift.json
+   Licensed under CC0-1.0 Public Domain Dedication
+
+3. Documentation:
+   PHYSICS.md, MATH.md, ORIGIN.md, LEGAL.md, README.md
+   Licensed under CC0-1.0 unless noted
+
+4. Origin Law:
+   Commercial use for attestation services is subject to 1% fee to origin
+   6ee6af28f5ce8136. Reading, verification, academic citation is free.
+
+DOI: 10.5281/zenodo.23865745 (v12 Final 8044B)
+Previous DOI: 10.5281/zenodo.23837671 (archival)

@@ -1,7 +1,35 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>POND Embassy v12 Final — 8044B NVM Kernel</title><style>:root{--bg:#0a0e14;--fg:#e6edf3;--mut:#8b949e;--c:#00ff88;--c2:#00d4ff;--border:#1f2937;--card:#111827}*{margin:0;padding:0;box-sizing:border-box}body{background:radial-gradient(1200px 600px at 20% -10%,#112233 0%,#0a0e14 60%),var(--bg);color:var(--fg);font-family:ui-monospace,Menlo,Consolas,monospace;line-height:1.6}.wrap{max-width:980px;margin:0 auto;padding:48px 20px}.hero{border:1px solid var(--border);border-radius:20px;padding:36px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(0,0,0,0))}.kicker{color:var(--c);font-size:12px;letter-spacing:0.2em;text-transform:uppercase}h1{font-size:clamp(28px,5vw,44px);line-height:1.05;margin:14px 0 10px}h1 span{background:linear-gradient(90deg,var(--c),var(--c2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}.sub{color:var(--mut);max-width:640px;font-size:15px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:28px 0}.card{border:1px solid var(--border);border-radius:14px;padding:16px 18px;background:var(--card)}.card b{display:block;font-size:11px;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:6px;color:var(--mut)}.card code{font-size:13px;word-break:break-all}.big{font-size:22px;font-weight:700}.hash{color:var(--c);font-size:18px}.row{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.pill{border:1px solid var(--border);border-radius:999px;padding:6px 12px;font-size:12px;color:var(--mut);background:#0f172a}.pill strong{color:var(--fg)}.ver{margin:22px 0;padding:18px;border:1px dashed #2a3a4a;border-radius:12px;background:#0d151f}.ver pre{white-space:pre-wrap;font-size:12.5px;color:#c9d1d9}h2{margin:36px 0 14px;font-size:18px}.table{width:100%;border-collapse:collapse;font-size:13px}.table td{padding:8px 10px;border-bottom:1px solid var(--border)}.table td:first-child{color:var(--mut);width:140px}a{color:var(--c2);text-decoration:none}.footer{margin-top:40px;color:var(--mut);font-size:11px;border-top:1px solid var(--border);padding-top:16px}.badge{display:inline-flex;align-items:center;gap:6px;background:#111827;border:1px solid var(--border);border-radius:8px;padding:4px 8px;font-size:11px}</style></head><body><div class="wrap"><div class="hero"><div class="kicker">POND Embassy • Academic Release</div><h1>POND v12 Final <span>8044B NVM Kernel</span></h1><div class="sub">Artifact: standalone 8044-byte kernel implementing a persistent monotonic counter at physical address 0x7E00. Maintains temporal continuity across host reboots. Exports verifiable attestation via Bitcoin OTS anchoring.</div><div class="row"><span class="pill"><strong>DOI</strong> 10.5281/zenodo.23865745</span><span class="pill"><strong>Size</strong> 8044 B</span><span class="pill"><strong>Resident</strong> 0x7E00 PONDVRNU</span><span class="pill"><strong>Lang</strong> 82.9% C</span></div><div class="grid"><div class="card"><b>Canonical Hash</b><code class="hash">a4c1a2285f33c07a</code><code style="display:block;font-size:11px;margin-top:4px;opacity:.7">a4c1a2285f33c07a679989f4ce5a4346a1ba64814bc05854a1577ca6a3672005</code></div><div class="card"><b>Live State</b><div class="big">2821 LIVE / 2821 COUNT</div><code>Drift 0.05 avg • 3.31h window • Marrakech</code></div><div class="card"><b>Property</b>RAW never lags (offline)<br>WALL may lag (PTP 50ns vs NTP 3ms vs Google 6ms)<br>Q32 ns/tick, HPET FED00000h</div></div></div><h2>Specification</h2><table class="table"><tr><td>Artifact</td><td>pond-256k-v12-final-a4c1a228.bin — final-bins/</td></tr><tr><td>Resident</td><td>0x7E00 magic PONDVRNU offset 7984 — NVM monotonic</td></tr><tr><td>Persistence</td><td>Survives host reboot, journal.c + chain_attest.c</td></tr><tr><td>Timing</td><td>Two-clock: TSC Q32 + HPET/PIT ref, thermal compensated</td></tr><tr><td>Attest</td><td>Bitcoin OTS, SHA256 chain, Zenodo DOI</td></tr><tr><td>License</td><td>Apache-2.0 AND CC0-1.0 — ORIGIN.md</td></tr></table><h2>Verification</h2><div class="ver"><pre>sha256sum pond-kernel-32kb/pond.img
-# → a4c1a2285f33c07a679989f4ce5a4346a1ba64814bc05854a1577ca6a3672005
-cat pond-kernel-32kb/c-kernel/PROOF.txt
-cat ZENODO.txt
-python legacy/health.py
-# → Chain 100 kept | LIVE 2821 | Kernel a4c1a228 mono | Drift 0.05 avg | OK</pre></div><h2>Build Lineage</h2><table class="table"><tr><td>2026-10-30</td><td>v5.1 PHYSICAL 55aa 4bd564a fb204d33 — RAW never lags</td></tr><tr><td>2026-10-31</td><td>v11 uplift fa6660b3 → v11.1 stable 5523b681 HEAD 2802</td></tr><tr><td>2026-11-01</td><td>v12 final a4c1a228 HEAD 2806 → 2821 — 82.9% C — DOI 23865745</td></tr></table><div class="row" style="margin-top:28px"><a class="badge" href="https://zenodo.org/records/23865745">Zenodo DOI 23865745</a><a class="badge" href="https://github.com/dirlida/pond-embassy">GitHub dirlida/pond-embassy</a><span class="badge">8044B • 0x7E00 • PONDVRNU</span></div><div class="footer">POND Embassy — Anas — Marrakech • independent timing domain, read-only attestation, no host kernel modification — Build b18f0c4 fb204d33→5594ad61 RAW signs WALL</div></div></body></html>
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1">
+<title>POND 2824</title>
+<style>
+body{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,monospace;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
+.wrap{width:100%;max-width:520px}.card{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}
+.head{font-size:52px;font-weight:900;letter-spacing:-1.5px;color:#f5d36c;line-height:1}
+.sub{margin-top:8px;font-size:13px;color:#9a9aa3}.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.chip{background:#1c1c22;border:1px solid #2b2b36;border-radius:999px;padding:8px 13px;font-size:12px;color:#b8b8c0} .chip b{color:#fff;font-weight:700}
+.live{margin-top:16px;background:#0f0f12;border:1px solid #222;border-radius:14px;padding:14px;font-size:11px;line-height:1.6;white-space:pre-wrap;color:#c8c8d0;max-height:420px;overflow:auto}
+.ok{color:#4ade80;font-weight:800} .footer{margin-top:14px;font-size:11px;color:#555;text-align:center} a{color:#7afcff;text-decoration:none}
+</style></head><body>
+<div class=wrap><div class=card>
+<div class=head>HEAD 2824</div>
+<div class=sub><span class=ok>=== OK ===</span> • LIVE 2824 COUNT 2824 • v5.1-embassy-v2-VERIFIER</div>
+<div class=row>
+<span class=chip>Kernel <b>a4c1a2285f33c07a</b></span>
+<span class=chip>Drift <b>0.05 avg</b></span>
+<span class=chip>Chain <b>100 kept</b></span>
+</div>
+<div class=row>
+<span class=chip>Build <b>b18f0c4</b></span>
+<span class=chip>Wall <b>2026-11-01T21:54:02.731966+00:00</b></span>
+<span class=chip>Boot <b>3.8h</b></span>
+</div>
+<div class=live id=live>Loading chain.json...</div>
+</div>
+<div class=footer>pond-embassy • a4c1a2285f33c07a • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a></div>
+</div>
+<script>
+async function load(){try{let [lv,ch]=await Promise.all([fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),fetch('chain.json?v='+Date.now()).then(r=>r.text()).catch(()=>null)]);let t=`HEAD 2824 COUNT 2824\nKernel a4c1a2285f33c07a\nDrift 0.05\nBuild b18f0c4\n\n`;if(lv) t+=JSON.stringify(lv,null,2).slice(0,1200)+"\n\n";if(ch) t+=ch.slice(0,1200);document.getElementById('live').textContent=t;}catch(e){}
+}
+load(); setInterval(load,5000);
+</script>
+</body></html>

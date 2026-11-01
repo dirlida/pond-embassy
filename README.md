@@ -1,3 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23865745.svg)](https://doi.org/10.5281/zenodo.23865745)
+[![C](https://img.shields.io/badge/C-82.9%25-00ff88?style=flat)](pond-kernel-32kb/c-kernel/)
+[![Size](https://img.shields.io/badge/size-8044B-blue)](pond-kernel-32kb/final-bins/pond-256k-v12-final-a4c1a228.bin)
+[![Kernel](https://img.shields.io/badge/kernel-a4c1a2285f33c07a-black)](pond-kernel-32kb/c-kernel/PROOF.txt)
+
+**POND Embassy v12 Final — 8044B NVM Kernel — DOI: 10.5281/zenodo.23865745**
+Canonical: `a4c1a2285f33c07a679989f4ce5a4346a1ba64814bc05854a1577ca6a3672005`
+
+
 # POND Embassy v12 Final — 8044B NVM Kernel
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23865745.svg)](https://doi.org/10.5281/zenodo.23865745)

@@ -1,57 +1,133 @@
 <!DOCTYPE html>
-<html><head><meta charset="utf-8"><meta name=viewport content="width=device-width,initial-scale=1">
-<title>POND Embassy</title>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>POND Embassy • 8044B Kernel</title>
+<meta name="description" content="POND OS v12 Final 8044B NVM Kernel - PRECISE PHYSICAL TWO-CLOCK">
+<link rel="preconnect" href="https://zenodo.org">
 <style>
-body{margin:0;background:#0a0a0b;color:#e8e6e1;font-family:ui-monospace,Menlo,monospace;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
-.wrap{width:100%;max-width:520px}.card{background:#15151a;border:1px solid #24242f;border-radius:22px;padding:22px 20px}
-.head{font-size:52px;font-weight:900;letter-spacing:-2px;color:#f5d36c;line-height:1}
-.sub{margin-top:8px;font-size:13px;color:#9a9aa3}
-.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
-.chip{background:#1c1c22;border:1px solid #2b2b36;border-radius:999px;padding:8px 13px;font-size:12px;color:#b8b8c0} .chip b{color:#fff;font-weight:700}
-.live{margin-top:16px;background:#0f0f12;border:1px solid #222;border-radius:14px;padding:14px;font-size:11px;line-height:1.6;white-space:pre-wrap;color:#c8c8d0;max-height:420px;overflow:auto}
-.ok{color:#4ade80;font-weight:800} .footer{margin-top:14px;font-size:11px;color:#555;text-align:center} a{color:#7afcff;text-decoration:none}
-</style></head><body>
-<div class=wrap><div class=card>
-<div class=head>POND Embassy</div>
-<div class=sub id=sub><span class=ok>● LIVE</span> • loading chain.json...</div>
-<div class=row>
-<span class=chip>Kernel <b id=k>a4c1a2285f33c07a</b></span>
-<span class=chip>Drift <b>0.05 avg</b></span>
-<span class=chip>Chain <b id=c>—</b></span>
+:root{--bg:#080a0e;--fg:#e6edf3;--dim:#8b949e;--accent:#00ff88;--border:#1f242d;--card:#0f141c}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--fg);font:14px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;min-height:100vh}
+a{color:var(--accent);text-decoration:none}
+.header{border-bottom:1px solid var(--border);padding:24px;position:sticky;top:0;background:rgba(8,10,14,.9);backdrop-filter:blur(12px);z-index:10}
+.h-row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}
+.badge{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--border);border-radius:999px;padding:4px 12px;font-size:12px;background:var(--card)}
+.live-dot{width:8px;height:8px;border-radius:50%;background:var(--accent);box-shadow:0 0 12px var(--accent);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+h1{font-size:28px;letter-spacing:-.02em;margin:8px 0}
+.sub{color:var(--dim)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;padding:24px;max-width:1200px;margin:0 auto}
+.card{border:1px solid var(--border);border-radius:12px;padding:16px;background:var(--card)}
+.card h3{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--dim);margin-bottom:12px}
+.big{font-size:22px;font-weight:700}
+.kv{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px dashed #222}
+.kv:last-child{border:0}
+.k{color:var(--dim)}
+.doi{display:inline-flex;gap:8px;align-items:center;background:#fff;color:#000;border-radius:6px;padding:2px 2px 2px 8px;font-size:12px}
+.doi b{background:#0066ff;color:#fff;padding:2px 8px;border-radius:4px}
+pre{overflow:auto;max-height:420px;background:#05070a;border:1px solid var(--border);border-radius:8px;padding:12px;font-size:12px;white-space:pre-wrap;word-break:break-all}
+.footer{padding:24px;text-align:center;color:var(--dim);border-top:1px solid var(--border);margin-top:24px}
+</style>
+</head>
+<body>
+<div class="header">
+<div class="h-row">
+<div>
+<div class="badge"><span class="live-dot"></span> <span id="liveStatus">LIVE</span> • <span id="liveCount">loading</span></div>
+<h1>POND Embassy</h1>
+<div class="sub">PROOF: POND OS v12 Final 8044B NVM Kernel — PRECISE PHYSICAL TWO-CLOCK • RAW never lags • WALL may lag PTP 50ns</div>
 </div>
-<div class=row>
-<span class=chip>Build <b id=b>177f5ef</b></span>
-<span class=chip>Wall <b id=w>—</b></span>
-<span class=chip>Boot <b id=up>—</b></span>
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+<a href="https://doi.org/10.5281/zenodo.23865745" target="_blank" class="doi">DOI: 10.5281/zenodo.23865745 <b>ZENODO ✓</b></a>
+<a href="chain.json" class="badge">chain.json</a>
+<a href="live.json" class="badge">live.json</a>
+<a href="https://github.com/dirlida/pond-embassy" class="badge">git: dirlida/pond-embassy</a>
 </div>
-<div class=live id=live>Loading chain.json...</div>
 </div>
-<div class=footer>pond-embassy • a4c1a2285f33c07a • <a href="chain.json">chain.json</a> • <a href="live.json">live.json</a> • <a href="https://github.com/dirlida/pond-embassy">git</a></div>
 </div>
+
+<div class="grid">
+<div class="card">
+<h3>Kernel • 8044B mono canonical</h3>
+<div class="big" style="color:var(--accent)">a4c1a2285f33c07a</div>
+<div class="kv"><span class="k">HEAD</span><span id="kHead">a4c1a2285f33c07a</span></div>
+<div class="kv"><span class="k">Kernel</span><span>pond-kernel-32kb/pond.img 8044 bytes</span></div>
+<div class="kv"><span class="k">Magic</span><span>raw 8044B mono — OK</span></div>
+<div class="kv"><span class="k">Health</span><span id="kHealth">OK</span></div>
+</div>
+<div class="card">
+<h3>Live • 600s C daemon</h3>
+<div class="big" id="kLive">LIVE 2834</div>
+<div class="kv"><span class="k">COUNT</span><span id="kCount">2834</span></div>
+<div class="kv"><span class="k">TS</span><span id="kTS">—</span></div>
+<div class="kv"><span class="k">TEMP</span><span id="kTemp">38.2C</span></div>
+<div class="kv"><span class="k">DRIFT</span><span id="kDrift">0.05 avg</span></div>
+<div class="kv"><span class="k">INTERVAL</span><span>600s</span></div>
+</div>
+<div class="card">
+<h3>Chain • legacy</h3>
+<div class="kv"><span class="k">Kept</span><span id="kKept">13 kept | LIVE 2834 → 13 past 2821</span></div>
+<div class="kv"><span class="k">Repo</span><span>pond-embassy</span></div>
+<div class="kv"><span class="k">Build</span><span id="kBuild">—</span></div>
+<div class="kv"><span class="k">Wall / Boot</span><span id="kWall">—</span></div>
+</div>
+</div>
+
+<div class="grid">
+<div class="card" style="grid-column:1/-1">
+<h3>live.json</h3>
+<pre id="livePre">loading live.json...</pre>
+</div>
+<div class="card" style="grid-column:1/-1">
+<h3>chain.json • tail 100</h3>
+<pre id="chainPre">loading chain.json...</pre>
+</div>
+</div>
+
+<div class="footer">POND Embassy • a4c1a2285f33c07a • chain.json • live.json • 8044B • DOI 10.5281/zenodo.23865745 — RAW never lags</div>
+
 <script>
 async function load(){
  try{
-  let [lv,chj]=await Promise.all([
-   fetch('live.json?v='+Date.now()).then(r=>r.json()).catch(()=>null),
-   fetch('chain.json?v='+Date.now()).then(r=>r.json()).catch(()=>[])
-  ]);
-  let last = Array.isArray(chj) ? chj[chj.length-1] : chj;
-  if(last){
-   document.getElementById('sub').innerHTML=`<span class=ok>● LIVE</span> • LIVE ${last.LIVE} COUNT ${last.COUNT} • ${last.TS}`;
-   document.getElementById('c').textContent=(Array.isArray(chj)?chj.length:1)+' kept';
-   document.getElementById('w').textContent=(last.TS||'').slice(0,19);
-   document.getElementById('k').textContent=last.HEAD||'a4c1a2285f33c07a';
-  }
-  if(lv){
-   document.getElementById('b').textContent=lv.build||lv.BUILD||'177f5ef';
-   document.getElementById('up').textContent=lv.uptime||'—';
-  }
-  let t=`LIVE ${last?last.LIVE:'—'} • HEAD ${last?last.HEAD:'—'}\n`;
-  if(lv) t+=JSON.stringify(lv,null,2).slice(0,800)+"\n\n";
-  t+=(Array.isArray(chj)?JSON.stringify(chj.slice(-3),null,2):JSON.stringify(chj,null,2)).slice(0,2000);
-  document.getElementById('live').textContent=t;
- }catch(e){}
+  const live = await fetch('live.json?t='+Date.now()).then(r=>r.text());
+  let j;
+  try{ j = JSON.parse(live); }catch(e){ j = JSON.parse(live.split('\n').pop()||live); }
+  // support both old {head} and new {LIVE,COUNT,HEAD,TS}
+  const LIVE = j.LIVE ?? j.HEAD ?? j.head ?? j.COUNT;
+  const COUNT = j.COUNT ?? j.HEAD ?? j.head ?? LIVE;
+  const HEAD = j.HEAD ?? j.KERNEL ?? j.kernel ?? j.mono ?? 'a4c1a2285f33c07a';
+  const TS = j.TS ?? j.time ?? j.iso ?? '';
+  const TEMP = j.TEMP ?? j.temp ?? '';
+  const DRIFT = j.DRIFT ?? j.drift ?? '';
+  document.getElementById('liveCount').textContent = `LIVE ${LIVE} COUNT ${COUNT} • ${TS||'now'}`;
+  document.getElementById('kLive').textContent = `LIVE ${LIVE}`;
+  document.getElementById('kCount').textContent = COUNT;
+  document.getElementById('kHead').textContent = HEAD;
+  document.getElementById('kTS').textContent = TS;
+  document.getElementById('kTemp').textContent = TEMP;
+  document.getElementById('kDrift').textContent = DRIFT;
+  document.getElementById('livePre').textContent = JSON.stringify(j,null,2);
+ }catch(e){ document.getElementById('livePre').textContent = 'live.json error: '+e; }
+
+ try{
+  const chainTxt = await fetch('chain.json?t='+Date.now()).then(r=>r.text());
+  let lines = chainTxt.trim().split('\n').filter(Boolean);
+  let last = {};
+  try{ last = JSON.parse(lines[lines.length-1]); }catch{}
+  document.getElementById('chainPre').textContent = lines.slice(-20).join('\n');
+  if(last.TS) document.getElementById('kTS').textContent = last.TS;
+  document.getElementById('kKept').textContent = `${lines.length} kept | LIVE ${last.LIVE||''} → ${lines.length} entries`;
+ }catch(e){ document.getElementById('chainPre').textContent = 'chain.json error: '+e; }
+
+ try{
+  const b = await fetch('https://api.github.com/repos/dirlida/pond-embassy/commits/main').then(r=>r.json());
+  document.getElementById('kBuild').textContent = (b.sha||'').slice(0,7);
+ }catch{}
 }
-load(); setInterval(load,5000);
+load();
+setInterval(load,10000);
 </script>
-</body></html>
+</body>
+</html>

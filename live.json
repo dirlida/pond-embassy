@@ -1,9 +1,9 @@
 {
-  "LIVE": 2805,
-  "COUNT": 2805,
-  "HEAD": 2805,
-  "KERNEL": "5523b6815870e3fc",
-  "mono": "5523b6815870e3fc",
+  "LIVE": 2806,
+  "COUNT": 2806,
+  "HEAD": 2806,
+  "KERNEL": "a4c1a2285f33c07a",
+  "mono": "a4c1a2285f33c07a",
   "time": "2026-11-01T18:51:37.663384+00:00",
   "boot": "0.8h",
   "earth": "0m",
@@ -12,5 +12,6 @@
   "drift": "0.050",
   "drift_raw": "0.050",
   "temp": "28.5",
-  "bat": "DISCHARGING_77"
+  "bat": "DISCHARGING_77",
+  "FULL_KERNEL": "a4c1a2285f33c07a679989f4ce5a4346a1ba64814bc05854a1577ca6a3672005"
 }

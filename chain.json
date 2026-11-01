@@ -1,24 +1,5 @@
 [
   {
-    "head": 2700,
-    "wall_ts": 1793498958.0408876,
-    "iso": "2026-11-01T02:09:23.053217+00:00",
-    "boot_elapsed": 20110.32375135203,
-    "wall": 20110.323717832565,
-    "drift_raw": 0.05,
-    "drift": 0.05,
-    "drift_corr": 0.05,
-    "temp": 34.0,
-    "glide": -0.0015690717166099391,
-    "glide_pid": -1.8483817687120507,
-    "sun": 83.79301563063345,
-    "earth": 0,
-    "kernel": "fbcbad2c5324f560",
-    "mono": "fbcbad2c5324f560",
-    "version": "v5.1-embassy-v2-VERIFIER",
-    "bat": "DISCHARGING_44"
-  },
-  {
     "head": 2701,
     "wall_ts": 1793499569.6073742,
     "iso": "2026-11-01T02:19:32.098259+00:00",
@@ -1898,5 +1879,30 @@
     "mono": "5523b6815870e3fc",
     "version": "v5.1-embassy-v2-VERIFIER",
     "bat": "DISCHARGING_77"
+  },
+  {
+    "head": 2806,
+    "wall_ts": 1793559175.2931495,
+    "iso": "2026-11-01T18:52:55.293162+00:00",
+    "boot_elapsed": 0,
+    "wall": 0,
+    "drift_raw": 0.05,
+    "drift": 0.05,
+    "drift_corr": 0.05,
+    "temp": 29.1,
+    "glide": 0,
+    "glide_pid": 0,
+    "sun": 9.2,
+    "earth": 0,
+    "kernel": "a4c1a2285f33c07a",
+    "mono": "a4c1a2285f33c07a",
+    "full_kernel_hash": "a4c1a2285f33c07a679989f4ce5a4346a1ba64814bc05854a1577ca6a3672005",
+    "version": "v12-final-fully-fledged-a4c1a2285f33c07a-NVM-0x7E00-offset7984",
+    "bat": "DISCHARGING_80",
+    "kernel_counter_offset": 7984,
+    "kernel_last_head": 2804,
+    "nvm_magic": "504F4E4456524E55",
+    "nvm_addr": "0x7E00",
+    "chain_hash_enforced": true
   }
 ]

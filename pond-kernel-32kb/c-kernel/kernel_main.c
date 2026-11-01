@@ -17,6 +17,7 @@ extern int wallet_sync_attest(unsigned int hi, unsigned int lo, unsigned int dri
 extern u64 journal_last_head(void);
 extern int journal_can_seal(u64,u64*);
 extern void journal_did_seal(u64,u64*);
+extern u64 journal_nvm_writes(void);
 
 void kernel_main(void){
   volatile unsigned int t=thermal_read_c();
@@ -35,19 +36,21 @@ void kernel_main(void){
   int u=user_one_check_c(seal);
   unsigned char* ph = pond_hash_ptr_c();
   wallet_set_seed_from_pond(ph);
-  // v11 uplift: HEAD now comes from kernel-owned counter
+  // v12 FINAL: fully fledged HEAD from kernel-owned counter + NVM
   u64 last_head = journal_last_head();
   u64 new_head = last_head + 1;
-  // Verify can seal (in real boot, chain_hash would be passed)
-  u64 dummy_hash[4] = {d,m,seal,out[0]};
-  int can = journal_can_seal(new_head, dummy_hash);
+  u64 chain_hash[4] = {d,m,seal,out[0]};
+  int can = journal_can_seal(new_head, chain_hash);
+  u64 nvm_w = 0;
   if(can){
-    journal_did_seal(new_head, dummy_hash);
+    journal_did_seal(new_head, chain_hash);
+    nvm_w = journal_nvm_writes();
   }
-  struct { u64 head; u64 seal; unsigned char ph[32]; } attest;
-  attest.head = new_head; // NOT v.wall_q64 anymore
+  struct { u64 head; u64 seal; unsigned char ph[32]; u64 nvm_writes; } attest;
+  attest.head = new_head;
   attest.seal = seal;
   for(int i=0;i<32;i++) attest.ph[i]=ph[i];
+  attest.nvm_writes = nvm_w;
   journal_write_c(&attest, (void*)sizeof(attest));
   chain_attest_c(&attest);
   wallet_sync_attest((unsigned int)(d>>32), (unsigned int)d, (unsigned int)m);

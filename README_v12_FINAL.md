@@ -23,3 +23,4 @@ python attest.py # HEAD 2806 4a6b9969
 Tag: v12.0.0 + v12-final-fully-fledged-a4c1a228
 
 Done done - embassy kernel final.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23865745.svg)](https://doi.org/10.5281/zenodo.23865745)

@@ -1,16 +1,1 @@
-{
-  "LIVE": 2824,
-  "COUNT": 2824,
-  "HEAD": 2824,
-  "KERNEL": "a4c1a2285f33c07a",
-  "mono": "a4c1a2285f33c07a",
-  "time": "2026-11-01T21:54:02.704552+00:00",
-  "boot": "3.8h",
-  "earth": "0m",
-  "sun": "57.3",
-  "version": "v5.1-embassy-v2-VERIFIER",
-  "drift": "0.050",
-  "drift_raw": "0.050",
-  "temp": "38.8",
-  "bat": "DISCHARGING_65"
-}
+{"HEAD":"a4c1a2285f33c07a","LIVE":2834,"COUNT":2834,"TS":"2026-11-01T22:18:53+00:00","TEMP":"38.2C","DRIFT":0.05,"INTERVAL":600}

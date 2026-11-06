@@ -1,0 +1,8 @@
+POND-KERNEL v13 SEALED
+binary: pond-32k.bin
+size: 24304
+sha256: c50f58a7e28932eda3fc9ab8a1c1cb690ba9f865abfb8cd00d98336cab81c4ff
+date: 2026-11-06T13:58:30Z
+kernel: 5-clock vote + sun + journal + rtc_gap + chain_attest + thermal + fuse + seal
+wallet: OUT of kernel, in daemon (pond-daemon) - by design for 32K
+limit: 32768 enforced by linker ASSERT
